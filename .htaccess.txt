@@ -1,0 +1,28 @@
+# Use index.php as default file
+DirectoryIndex index.php index.html
+
+# Enable Rewrite Engine
+RewriteEngine On
+
+# Force www (optional - comment this out if not needed)
+# RewriteCond %{HTTP_HOST} !^www\.
+# RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+# Redirect to HTTPS (optional - if SSL is installed)
+# RewriteCond %{HTTPS} off
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Clean URL rewriting (e.g., /about -> about.php or routing logic)
+# If file or directory doesn't exist, send to index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
+
+# Prevent directory listing
+Options -Indexes
+
+# Protect .htaccess itself
+<Files .htaccess>
+  Order Allow,Deny
+  Deny from all
+</Files>

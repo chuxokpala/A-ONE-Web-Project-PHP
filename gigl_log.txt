@@ -1,0 +1,2463 @@
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 2000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 2000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 37
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 2000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 2000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 2000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 2000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 2000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 4000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => Lorentz PS2-600 HR-4 Solar Submersible Pump
+                    [Description] => Lorentz PS2-600 HR-4 Solar Submersible Pump
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 0
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 4000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 37
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 58234.56
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 19
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 38000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 20000
+                )
+
+            [2] => Array
+                (
+                    [ItemName] => JinKO 580W Solar Panel
+                    [Description] => JinKO 580W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 234.56
+                )
+
+            [3] => Array
+                (
+                    [ItemName] => JinKO 555W Solar Panel
+                    [Description] => JinKO 555W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 0
+                )
+
+            [4] => Array
+                (
+                    [ItemName] => JinKO 550W Solar Panel
+                    [Description] => JinKO 550W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 4
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 0
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 465W Solar Panel
+                    [Description] => JinKO 465W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 42000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 40000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 37
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 42000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 40000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 42000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 40000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 42000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 40000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 37
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 10000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 5
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 10000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 22234.56
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 20000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 580W Solar Panel
+                    [Description] => JinKO 580W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 234.56
+                )
+
+            [2] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 37
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 22234.56
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 20000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 580W Solar Panel
+                    [Description] => JinKO 580W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 234.56
+                )
+
+            [2] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 22234.56
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 20000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 580W Solar Panel
+                    [Description] => JinKO 580W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 234.56
+                )
+
+            [2] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 37
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 22234.56
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 20000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 580W Solar Panel
+                    [Description] => JinKO 580W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 234.56
+                )
+
+            [2] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 22234.56
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 20000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 580W Solar Panel
+                    [Description] => JinKO 580W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 234.56
+                )
+
+            [2] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 37
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 22234.56
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 20000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 580W Solar Panel
+                    [Description] => JinKO 580W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 234.56
+                )
+
+            [2] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 36
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 17
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 4
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 6
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 44469.12
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 40000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 580W Solar Panel
+                    [Description] => JinKO 580W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 469.12
+                )
+
+            [2] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 4000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 12
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 44469.12
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 40000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 580W Solar Panel
+                    [Description] => JinKO 580W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 469.12
+                )
+
+            [2] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 2
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 4000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 2
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 1
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 4
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 2
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 62000
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 3
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 60000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+        )
+
+)
+Array
+(
+    [SenderStationId] => 4
+    [ReceiverStationId] => 11
+    [VehicleType] => 1
+    [IsFromAgility] => 
+    [CustomerCode] => ECO017121
+    [CustomerType] => 0
+    [DeliveryOptionIds] => Array
+        (
+            [0] => 2
+        )
+
+    [Value] => 22234.56
+    [PickUpOptions] => 1
+    [ReceiverLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [SenderLocation] => Array
+        (
+            [Latitude] => 6.5244
+            [Longitude] => 3.3792
+        )
+
+    [ShipmentItems] => Array
+        (
+            [0] => Array
+                (
+                    [ItemName] => JinKO 625W Solar Panel
+                    [Description] => JinKO 625W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 2000
+                )
+
+            [1] => Array
+                (
+                    [ItemName] => JinKO 615W Solar Panel
+                    [Description] => JinKO 615W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 20000
+                )
+
+            [2] => Array
+                (
+                    [ItemName] => JinKO 580W Solar Panel
+                    [Description] => JinKO 580W Solar Panel
+                    [SpecialPackageId] => 0
+                    [Quantity] => 1
+                    [Weight] => 1
+                    [IsVolumetric] => 
+                    [Length] => 0
+                    [Width] => 0
+                    [Height] => 0
+                    [ShipmentType] => 1
+                    [Value] => 234.56
+                )
+
+        )
+
+)

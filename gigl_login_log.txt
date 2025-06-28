@@ -1,0 +1,340 @@
+Array
+(
+    [message] => Invalid Login Details
+    [apiId] => 593f129c-fdbb-4cf3-8394-4041147c2059
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => This User does not have Third Party Role!
+    [apiId] => 8a576573-a2ab-43c7-a2f8-dc7825cf0314
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => This User does not have Third Party Role!
+    [apiId] => e634d9fb-1c93-4485-abf6-b0af1460c83f
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => This User does not have Third Party Role!
+    [apiId] => 4d4d25c9-8fe2-4615-91f4-89077ea152b2
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => This User does not have Third Party Role!
+    [apiId] => b08aeb98-808c-4708-baa2-f3d9a71d1296
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => This User does not have Third Party Role!
+    [apiId] => aa3366bb-9a0d-4fe8-b7ca-31dc2960fbc4
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not found
+    [apiId] => 27da0dd1-4edb-4a11-8fc1-c9d88aa5a38c
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not found
+    [apiId] => 805203b0-0f13-41dd-98fb-3e2a35e792c1
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 4a571119-b9dc-476d-8f9d-3c327fc21e2d
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 27aad25b-be6c-467a-a88e-d13fca6a9a26
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => ab0b76bf-8f1d-4918-a305-9def1b9a5ba1
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 1288213b-acc4-4cc3-8cf8-dcb17db137ab
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 9577d7c5-81e2-482d-97fa-9860224f8430
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => e20a0a7f-fedc-4ac0-b029-624c106cc678
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 18c65f1e-9ed6-438b-8e76-0fc6bd408559
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => faba5e67-ad44-44d4-bab5-0eb92885ca5b
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 9f49fcda-5dd0-4ef8-a324-63d568d96141
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => c850172a-e536-49e1-871e-ed4f656c37b4
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => ab47604c-e84c-4f6c-bed4-ba1216bf662b
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 390217e3-41d4-4b9e-a76d-d2188469c906
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => Invalid Login Details
+    [apiId] => 30eb63aa-f266-427c-8c75-22e337427484
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => e9b03bf9-306c-40cd-bf5c-8c4ee219188f
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 7651028e-46a3-4c14-a7af-494eaf0b408a
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => c540e0f3-d2ff-4420-8ca8-6352454c5323
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 5e9bcca6-d393-4eb4-8cd8-3a152a57ec4d
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 59c799d0-16ef-45e1-a806-f684574ee713
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => e4c0106c-8c14-4e38-a116-beb9a416c96b
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 277dc780-7470-403a-817d-2a8ed139ddf1
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 2ca93169-10ab-4d07-9409-59a8004d62ec
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 26c87808-ee88-4227-a85c-af873f10ca43
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => f64c6848-a703-4dc7-87fc-d019ce5c8a24
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => e2cd2ccf-019d-4436-84f2-c6f3294a9e77
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => 60c1ec41-086b-4a97-9548-f7dcb271837c
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
+Array
+(
+    [message] => User not registered with us.
+    [apiId] => a0e2898b-41cf-4f9d-bdaa-afe78e60bc57
+    [status] => 401
+    [data] => Array
+        (
+        )
+
+)
