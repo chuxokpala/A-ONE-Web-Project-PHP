@@ -34,7 +34,7 @@
             <p>AESL is a energy project delivery, advisory, investment and capacity development firm. With our expert team and best practices, we deliver services in the energy 
                 and electricity industry in a sustainable way, without compromising the livelihood of future generations. We 
                 specialise in the delivery of solar energy systems (of all sizes and purposes), and with our team of engineers and strategic 
-                collaborations, we deliver projects and services across the energy value-chain.</p>
+                collaborations, we deliver projects and services across the energy value-chain..</p>
 
                 <p>We welcome private individuals, businesses, NGOs and government clients looking to execute sustainable initiatives and projects.</p>
         </div>
