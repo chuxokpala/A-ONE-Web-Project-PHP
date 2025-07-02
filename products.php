@@ -134,7 +134,7 @@
       [
         'id' => 11,
         'name' => 'Felicity 550W Solar Panel',
-        'price' => 261000.00,
+        'price' => 243000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'The Felicity 540W solar panel is a high-efficiency monocrystalline module with half-cut cell and PERC technology, suitable for residential and commercial use.',
@@ -147,7 +147,7 @@
       [
         'id' => 12,
         'name' => 'Felicity 450W Solar Panel',
-        'price' => 220000.00,
+        'price' => 212000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'The Felicity 450W solar panel is a high-efficiency monocrystalline module with half-cut cell and PERC technology, suitable for residential and commercial use.',
@@ -160,7 +160,7 @@
   [
     'id' => 13,
     'name' => 'felicity 350W Solar Panel',
-    'price' => 208000.00,
+    'price' => 194000.00,
     'image' => 'assets\shop assets\product images\Products - HalfCut PV Panelx1.png',
     'category' => 'Solar Panels',
     'description' => 'The Felicity 400W solar panel is a high-efficiency monocrystalline module with half-cut cell and PERC technology, suitable for residential and commercial use.',
