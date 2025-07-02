@@ -959,7 +959,7 @@
   'name' => 'felicity 11kW AC Car Charger',
   'price' => 0,
   'image' => 'assets\shop assets\product images\EV Car Charger.jpeg',
-  'category' => 'Accessories',
+  'category' => 'E-Mobility',
   'description' => 'Felicity 11kW AC Car Charger (A11-ST) is a wall-mounted, three-phase EV charger with IP65 protection, 16A output, and 3.5m cable. Ideal for home or commercial use, it includes eight safety features for reliable operation.',
   'weight' => 3.5, // Weight in kilograms
   'rating' => [
@@ -975,7 +975,7 @@
   'name' => 'felicity 7kW AC Car Charger',
   'price' => 0,
   'image' => 'assets\shop assets\product images\EV Car Charger.jpeg',
-  'category' => 'Accessories',
+  'category' => 'E-Mobility',
   'description' => 'The Felicity 7kW AC Car Charger (Model: A7-ST) is a wall-mounted EV charger delivering 7kW at 32A, designed for residential use. It features IP65 waterproof protection, eight safety functions, and a 3.5m charging cable, ensuring efficient and safe charging for electric vehicles. ',
   'weight' => 3.5, // Weight in kilograms
   'rating' => [
