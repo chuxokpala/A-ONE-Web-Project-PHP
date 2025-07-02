@@ -56,7 +56,7 @@
                 <img src="./assets\web images\Project Management x.png" alt="Project Development" class="service-image">
                 <h3 class="service-title">Project Delivery</h3>
                 <p class="service-description">
-                    We develop and implement end-to-end energy systems including SHS, solar mini-grids, and conventional electric power infrastructure with a focus on quality, reliability, and speed.
+                    We develop and implement end-to-end energy systems including SHS, solar streetlighting, and conventional electric power infrastructure with a focus on quality, reliability, and speed.
                 </p>
                 <a href="contact.php" class="read-more">Contact Us</a>
             </div>  
