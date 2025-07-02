@@ -1,3 +1,5 @@
+<?php require('includes/header.php')?>
+
 <?php session_start(); ?>
 <?php ?>
 <!DOCTYPE html>
@@ -238,3 +240,5 @@
   </script>
 </body>
 </html>
+
+<?php require('includes/footer.php')?>
