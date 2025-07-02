@@ -1387,20 +1387,20 @@
   'pdf' => 'assets\shop assets\datasheets\PS2-150 to PS2-4000.pdf',
 ],
 [
-  'id' => 89,
-  'name' => 'Lorentz PS1800-Pool-CS-37-1 Controller',
-  'price' => 0,
-  'image' => 'assets\shop assets\product images\PS1800-Pool-CS-37-1.png',
-  'category' => 'Accessories',
-  'description' => 'The Lorentz PS-1800 Pool CS-37-1 is a solar-powered surface pump system designed for high-volume water circulation in swimming pools and similar applications. It delivers up to 36 m³/h at a maximum head of 14 meters, making it ideal for large-scale water movement needs.​',
-  'weight' => 3.5, // Weight in kilograms
+  'id' => 90,
+  'name' => 'Qoray Electric 4-wheeler – Sill',
+  'price' => 65945645.16,
+  'image' => 'assets\shop assets\product images\Qoray Electric 4-wheeler – Sill.jpg',
+  'category' => 'E-Mobility',
+  'description' => 'The Qoray Electric 4-wheeler – Sill offers a maximum range of 520km per full charge and can complete up to 26 trips daily. Designed for urban mobility, it accommodates 4 passengers plus a driver and reaches a top speed of 185 km/h.​',
+  'weight' => 1300, // Weight in kilograms
   'rating' => [
       'stars' => 42,
       'count' => 13
   ],
-  'brandID' => 'PS1800-Pool-CS-37-1',
-  'keywords' => ['Pumps', 'felicity', 'Products', 'A-ONE'],
-  'pdf' => 'assets\shop assets\datasheets\PS2-150 to PS2-4000.pdf',
+  'brandID' => 'QORAY-SILL',
+  'keywords' => ['Qoray', 'EV', 'Sill', 'Electric Car', 'Mobility'],
+  'pdf' => 'assets\shop assets\datasheets\EV_Brochure.pdf',
 ],
 
 
