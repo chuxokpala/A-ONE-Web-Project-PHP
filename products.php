@@ -173,7 +173,7 @@
   [
     'id' => 14,
     'name' => 'Luminous 1500VA Offgrid Inverter',
-    'price' => 0,
+    'price' => 367500.00,
     'image' => './assets/shop assets/product images/1100-1500VA Hybrid Inverter.png',
     'category' => 'Inverters',
     'description' => 'The Luminous 1500VA Off-Grid Inverter is a 24V system inverter providing pure sine wave output, ideal for powering essential appliances during outages with advanced safety features.',
@@ -189,7 +189,7 @@
   [
     'id' => 15,
     'name' => 'Luminous 850VA Offgrid Inverter',
-    'price' => 0,
+    'price' => 292000.00,
     'image' => './assets/shop assets/product images/1100-1500VA Hybrid Inverter.png',
     'category' => 'Inverters',
     'weight' => 3.5, // Weight in kilograms
