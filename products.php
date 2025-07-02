@@ -4,11 +4,11 @@
       [
         'id' => 1,
         'name' => 'JinKO 625W Solar Panel',
-        'price' => 2000,
+        'price' => 293000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'Jinko 625W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
-        'weight' => 3.5, // Weight in kilograms
+        'weight' => 29, // Weight in kilograms
         'rating' => ['stars' => 47, 'count' => 18],
         'brandID' => 'JKM625',
         'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
@@ -17,11 +17,11 @@
       [
         'id' => 2,
         'name' => 'JinKO 615W Solar Panel',
-        'price' => 20000,
+        'price' => 285000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'Jinko 615W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
-        'weight' => 3.5, // Weight in kilograms
+        'weight' => 29, // Weight in kilograms
         'rating' => ['stars' => 45, 'count' => 14],
         'brandID' => 'JKM615',
         'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
@@ -30,11 +30,11 @@
       [
         'id' => 3,
         'name' => 'JinKO 580W Solar Panel',
-        'price' => 234.56,
+        'price' => 263000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'Jinko 580W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
-        'weight' => 3.5, // Weight in kilograms
+        'weight' => 27, // Weight in kilograms
         'rating' => ['stars' => 49, 'count' => 11],
         'brandID' => 'JKM580',
         'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
@@ -43,11 +43,11 @@
       [
         'id' => 4,
         'name' => 'JinKO 555W Solar Panel',
-        'price' => 0,
+        'price' => 255000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'Jinko 555W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
-        'weight' => 3.5, // Weight in kilograms
+        'weight' => 26, // Weight in kilograms
         'rating' => ['stars' => 46, 'count' => 20],
         'brandID' => 'JKM555',
         'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
@@ -56,11 +56,11 @@
       [
         'id' => 5,
         'name' => 'JinKO 550W Solar Panel',
-        'price' => 0,
+        'price' => 248000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'Jinko 550W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
-        'weight' => 3.5, // Weight in kilograms
+        'weight' => 26, // Weight in kilograms
         'rating' => ['stars' => 48, 'count' => 17],
         'brandID' => 'JKM550',
         'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
@@ -69,11 +69,11 @@
       [
         'id' => 6,
         'name' => 'JinKO 545W Solar Panel',
-        'price' => 0,
+        'price' => 225000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'Jinko 545W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
-        'weight' => 3.5, // Weight in kilograms
+        'weight' => 26, // Weight in kilograms
         'rating' => ['stars' => 44, 'count' => 15],
         'brandID' => 'JKM545',
         'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
@@ -81,12 +81,12 @@
       ],
       [
         'id' => 7,
-        'name' => 'JinKO 480W Solar Panel',
-        'price' => 0,
+        'name' => 'JinKO 485W Solar Panel',
+        'price' => 188000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
-        'description' => 'Jinko 480W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
-        'weight' => 3.5, // Weight in kilograms
+        'description' => 'Jinko 485W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
+        'weight' => 23, // Weight in kilograms
         'rating' => ['stars' => 42, 'count' => 19],
         'brandID' => 'JKM480',
         'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
@@ -95,11 +95,11 @@
       [
         'id' => 8,
         'name' => 'JinKO 475W Solar Panel',
-        'price' => 0,
+        'price' => 180000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'Jinko 475W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
-        'weight' => 3.5, // Weight in kilograms
+        'weight' => 23, // Weight in kilograms
         'rating' => ['stars' => 47, 'count' => 10],
         'brandID' => 'JKM475',
         'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
@@ -107,12 +107,12 @@
       ],
       [
         'id' => 9,
-        'name' => 'JinKO 465W Solar Panel',
-        'price' => 0,
+        'name' => 'JinKO 450W Solar Panel',
+        'price' => 150000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
-        'description' => 'Jinko 465W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
-        'weight' => 3.5, // Weight in kilograms
+        'description' => 'Jinko 450W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
+        'weight' => 22, // Weight in kilograms
         'rating' => ['stars' => 45, 'count' => 13],
         'brandID' => 'JKM465',
         'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
@@ -121,11 +121,11 @@
       [
         'id' => 10,
         'name' => 'JinKO 440W Solar Panel',
-        'price' => 0,
+        'price' => 143000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'Jinko 440W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
-        'weight' => 3.5, // Weight in kilograms
+        'weight' => 22, // Weight in kilograms
         'rating' => ['stars' => 43, 'count' => 16],
         'brandID' => 'JKM440',
         'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
@@ -133,12 +133,12 @@
       ],
       [
         'id' => 11,
-        'name' => 'Felicity 540W Solar Panel',
-        'price' => 0,
+        'name' => 'Felicity 550W Solar Panel',
+        'price' => 261000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'The Felicity 540W solar panel is a high-efficiency monocrystalline module with half-cut cell and PERC technology, suitable for residential and commercial use.',
-        'weight' => 3.5, // Weight in kilograms
+        'weight' => 23, // Weight in kilograms
         'rating' => ['stars' => 46, 'count' => 14],
         'brandID' => 'FEL540',
         'keywords' => ['Felicity', 'Solar PV', 'A-ONE', 'Products'],
@@ -147,11 +147,11 @@
       [
         'id' => 12,
         'name' => 'Felicity 450W Solar Panel',
-        'price' => 0,
+        'price' => 220000.00,
         'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
         'category' => 'Solar Panels',
         'description' => 'The Felicity 450W solar panel is a high-efficiency monocrystalline module with half-cut cell and PERC technology, suitable for residential and commercial use.',
-        'weight' => 3.5, // Weight in kilograms
+        'weight' => 22, // Weight in kilograms
         'rating' => ['stars' => 44, 'count' => 13],
         'brandID' => 'FEL450',
         'keywords' => ['Felicity', 'Solar PV', 'A-ONE', 'Products'],
@@ -159,12 +159,12 @@
       ],
   [
     'id' => 13,
-    'name' => 'felicity 400W Solar Panel',
-    'price' => 0,
+    'name' => 'felicity 350W Solar Panel',
+    'price' => 208000.00,
     'image' => 'assets\shop assets\product images\Products - HalfCut PV Panelx1.png',
     'category' => 'Solar Panels',
     'description' => 'The Felicity 400W solar panel is a high-efficiency monocrystalline module with half-cut cell and PERC technology, suitable for residential and commercial use.',
-    'weight' => 3.5, // Weight in kilograms
+    'weight' => 22, // Weight in kilograms
     'rating' => ['stars' => 43, 'count' => 12],
     'brandID' => 'FEL400',
     'keywords' => ['felicity', 'Solar PV', 'A-ONE', 'Products'],
