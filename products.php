@@ -1389,7 +1389,7 @@
 [
   'id' => 90,
   'name' => 'Qoray Electric 4-Wheeler – Sill',
-  'price' => 65945645.16,
+  'price' => 85094000.00,
   'image' => 'assets\shop assets\product images\Qoray Electric 4-wheeler – Sill.jpg',
   'category' => 'E-Mobility',
   'description' => 'The Qoray Electric 4-wheeler – Sill offers a maximum range of 520km per full charge and can complete up to 26 trips daily. Designed for urban mobility, it accommodates 4 passengers plus a driver and reaches a top speed of 185 km/h. Comes with a 36-month warranty.',
@@ -1405,7 +1405,7 @@
 [
   'id' => 91,
   'name' => 'Qoray Electric 4-wheeler – Savannah',
-  'price' => 78649013.58, // ₦78,649,013.58
+  'price' => 102244000.00, // ₦78,649,013.58
   'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Savannah.jpg',
   'category' => 'E-Mobility',
   'description' => 'The Qoray Savannah is a high-performance 4-wheel electric vehicle designed for daily commercial and utility use. With a top speed of 180 km/h and range of up to 460 km per charge, it ensures efficient and eco-friendly mobility. Includes a 36-month warranty.',
@@ -1421,7 +1421,7 @@
 [
   'id' => 92,
   'name' => 'Qoray Electric 4-wheeler – Sable',
-  'price' => 68424026.84, // ₦68,424,026.84
+  'price' => 88952000.00, // ₦68,424,026.84
   'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Sable.jpg',
   'category' => 'E-Mobility',
   'description' => 'The Qoray Sable is a rugged 4-wheeler EV built for performance and endurance, offering a top speed of 150 km/h and a range of up to 480 km on a single charge. Ideal for long-distance transport with a 36-month warranty included.',
@@ -1437,23 +1437,7 @@
 [
   'id' => 93,
   'name' => 'Qoray Electric 4-wheeler – Panther',
-  'price' => 44802242.82, // ₦44,802,242.82
-  'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Panther.jpg',
-  'category' => 'E-Mobility',
-  'description' => 'The Qoray Panther is a high-performance electric 4-wheeler engineered for power and range. It offers a maximum speed of 190 km/h and up to 580 km range on a full charge. Comes with a 36-month warranty.',
-  'weight' => 1400, // Estimated weight in kilograms
-  'rating' => [
-      'stars' => 4.7,
-      'count' => 21
-  ],
-  'brandID' => 'Qoray-Panther',
-  'keywords' => ['Electric Vehicle', 'Panther', 'Qoray EV', '4-Wheeler', 'E-Mobility'],
-  'pdf' => 'assets/shop assets/datasheets/EV_Brochure.pdf',
-],
-[
-  'id' => 93,
-  'name' => 'Qoray Electric 4-wheeler – Panther',
-  'price' => 44802242.82, // ₦44,802,242.82
+  'price' => 58243000.00, // ₦44,802,242.82
   'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Panther.jpg',
   'category' => 'E-Mobility',
   'description' => 'The Qoray Panther is a high-performance electric 4-wheeler engineered for power and range. It offers a maximum speed of 190 km/h and up to 580 km range on a full charge. Comes with a 36-month warranty.',
@@ -1469,7 +1453,7 @@
 [
   'id' => 94,
   'name' => 'Qoray Electric 4-wheeler – Oak',
-  'price' => 189914686.20, // ₦189,914,686.20
+  'price' => 246890000.00, // ₦189,914,686.20
   'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Oak.jpg',
   'category' => 'E-Mobility',
   'description' => 'The Qoray Oak is a large-capacity 4-wheeler EV designed to carry 28 passengers plus 1 driver. It has a maximum speed of 100 km/h and a range of up to 160 km on a single full charge. Comes with a 36-month warranty.',
@@ -1485,7 +1469,7 @@
 [
   'id' => 95,
   'name' => 'Qoray Electric 4-wheeler – Javan',
-  'price' => 31178941.37, // ₦31,178,941.37
+  'price' => 40533000.00, // ₦31,178,941.37
   'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Javan.jpg',
   'category' => 'E-Mobility',
   'description' => 'The Qoray Javan is a sleek 4-wheeler electric vehicle with seating for 4 passengers plus 1 driver. It offers a maximum speed of 101 km/h and a range of up to 220 km on a single charge. Includes a 36-month warranty.',
@@ -1501,7 +1485,7 @@
 [
   'id' => 96,
   'name' => 'Qoray Electric 4-wheeler – Caspian',
-  'price' => 57948371.93, // ₦57,948,371.93
+  'price' => 75333000.00, // ₦57,948,371.93
   'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Caspian.jpg',
   'category' => 'E-Mobility',
   'description' => 'The Qoray Caspian is a robust 4-wheeler electric vehicle with seating for 4 passengers plus 1 driver. It delivers a top speed of 101 km/h and a range of up to 401 km on a single full battery charge. Includes a 36-month warranty.',
@@ -1517,7 +1501,7 @@
 [
   'id' => 97,
   'name' => 'Qoray Electric 4-wheeler – Bear',
-  'price' => 78649013.58, // ₦78,649,013.58
+  'price' => 102244000.00, // ₦78,649,013.58
   'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Bear.jpg',
   'category' => 'E-Mobility',
   'description' => 'The Qoray Bear is a large electric 4-wheeler designed to carry 14 passengers plus 1 driver. It has a max speed of 100 km/h and offers a range of up to 320 km on a full battery charge. Includes a 36-month warranty.',
@@ -1533,7 +1517,7 @@
   [
     'id' => 98,
     'name' => 'Qoray Electric 3-wheeler – Teak',
-    'price' => 3597146.29, // ₦3,597,146.29
+    'price' => 4677000.00, // ₦3,597,146.29
     'image' => 'assets/shop assets/product images/Qoray Electric 3-wheeler.jpg',
     'category' => 'E-Mobility',
     'description' => 'The Qoray Teak is a versatile 3-wheeler electric vehicle, seating 6 passengers plus 1 driver, with a max speed of 40 km/h and up to 120 km range. Includes a 36-month warranty.',
@@ -1549,7 +1533,7 @@
   [
     'id' => 99,
     'name' => 'Qoray Electric 3-wheeler – Beluga',
-    'price' => 3556811.68, // ₦3,556,811.68
+    'price' => 4624000.00, // ₦3,556,811.68
     'image' => 'assets/shop assets/product images/Qoray Electric 3-wheeler – Beluga.jpg',
     'category' => 'E-Mobility',
     'description' => 'The Qoray Beluga is a compact 3-wheeler EV with seating for 3 passengers plus 1 driver, max speed 30 km/h, and a range up to 60 km per charge. Includes a 36-month warranty.',
@@ -1565,7 +1549,7 @@
 [
   'id' => 100,
   'name' => 'Qoray Electric 2-wheeler – Falcon',
-  'price' => 1900000.00, // ₦1,900,000.00
+  'price' => 2470000.00, // ₦1,900,000.00
   'image' => 'assets/shop assets/product images/Qoray Electric 2-wheeler.jpg',
   'category' => 'E-Mobility',
   'description' => 'The Qoray Falcon is a nimble 2-wheeler electric vehicle designed for a single rider, offering a maximum speed of 85 km/h and a range of up to 100 km on a single battery charge. Includes a 36-month warranty.',
