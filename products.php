@@ -1392,7 +1392,7 @@
   'price' => 65945645.16,
   'image' => 'assets\shop assets\product images\Qoray Electric 4-wheeler – Sill.jpg',
   'category' => 'E-Mobility',
-  'description' => 'The Qoray Electric 4-wheeler – Sill offers a maximum range of 520km per full charge and can complete up to 26 trips daily. Designed for urban mobility, it accommodates 4 passengers plus a driver and reaches a top speed of 185 km/h.​',
+  'description' => 'The Qoray Electric 4-wheeler – Sill offers a maximum range of 520km per full charge and can complete up to 26 trips daily. Designed for urban mobility, it accommodates 4 passengers plus a driver and reaches a top speed of 185 km/h. Comes with a 36-month warranty.',
   'weight' => 1300, // Weight in kilograms
   'rating' => [
       'stars' => 42,
@@ -1563,7 +1563,7 @@
     'pdf' => 'assets/shop assets/datasheets/EV_Brochure.pdf',
   ],
 [
-  'id' => 10,
+  'id' => 100,
   'name' => 'Qoray Electric 2-wheeler – Falcon',
   'price' => 1900000.00, // ₦1,900,000.00
   'image' => 'assets/shop assets/product images/Qoray Electric 2-wheeler.jpg',
