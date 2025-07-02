@@ -1483,22 +1483,6 @@
   'pdf' => 'assets/shop assets/datasheets/EV_Brochure.pdf',
 ],
 [
-  'id' => 94,
-  'name' => 'Qoray Electric 4-wheeler – Oak',
-  'price' => 189914686.20, // ₦189,914,686.20
-  'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Oak.jpg',
-  'category' => 'E-Mobility',
-  'description' => 'The Qoray Oak is a large-capacity 4-wheeler EV designed to carry 28 passengers plus 1 driver. It has a maximum speed of 100 km/h and a range of up to 160 km on a single full charge. Comes with a 36-month warranty.',
-  'weight' => 3500, // Estimated weight in kilograms (heavy-duty vehicle)
-  'rating' => [
-      'stars' => 4.4,
-      'count' => 12
-  ],
-  'brandID' => 'Qoray-Oak',
-  'keywords' => ['Electric Vehicle', 'Qoray', 'Oak', '4-Wheeler', 'E-Mobility', 'Bus'],
-  'pdf' => 'assets/shop assets/datasheets/EV_Brochure.pdf',
-],
-[
   'id' => 95,
   'name' => 'Qoray Electric 4-wheeler – Javan',
   'price' => 31178941.37, // ₦31,178,941.37
