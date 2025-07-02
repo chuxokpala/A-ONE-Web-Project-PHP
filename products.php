@@ -1388,7 +1388,7 @@
 ],
 [
   'id' => 90,
-  'name' => 'Qoray Electric 4-wheeler – Sill',
+  'name' => 'Qoray Electric 4-Wheeler – Sill',
   'price' => 65945645.16,
   'image' => 'assets\shop assets\product images\Qoray Electric 4-wheeler – Sill.jpg',
   'category' => 'E-Mobility',
@@ -1398,12 +1398,42 @@
       'stars' => 42,
       'count' => 13
   ],
-  'brandID' => 'QORAY-SILL',
+  'brandID' => 'Qoray-Sill',
   'keywords' => ['Qoray', 'EV', 'Sill', 'Electric Car', 'Mobility'],
   'pdf' => 'assets\shop assets\datasheets\EV_Brochure.pdf',
 ],
-
-
+[
+  'id' => 91,
+  'name' => 'Qoray Electric 4-wheeler – Savannah',
+  'price' => 78649013.58, // ₦78,649,013.58
+  'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Savannah.jpg',
+  'category' => 'E-Mobility',
+  'description' => 'The Qoray Savannah is a high-performance 4-wheel electric vehicle designed for daily commercial and utility use. With a top speed of 180 km/h and range of up to 460 km per charge, it ensures efficient and eco-friendly mobility. Includes a 36-month warranty.',
+  'weight' => 1400, // Estimated weight in kilograms
+  'rating' => [
+      'stars' => 4.8,
+      'count' => 22
+  ],
+  'brandID' => 'Qoray-Savannah',
+  'keywords' => ['Electric Vehicle', 'EV', 'Qoray', 'Savannah', 'Utility Van'],
+  'pdf' => 'assets/shop assets/datasheets/EV_Brochure.pdf',
+],
+[
+  'id' => 92,
+  'name' => 'Qoray Electric 4-wheeler – Sable',
+  'price' => 68424026.84, // ₦68,424,026.84
+  'image' => 'assets/shop assets/product images/Qoray Electric 4-wheeler – Sable.jpg',
+  'category' => 'E-Mobility',
+  'description' => 'The Qoray Sable is a rugged 4-wheeler EV built for performance and endurance, offering a top speed of 150 km/h and a range of up to 480 km on a single charge. Ideal for long-distance transport with a 36-month warranty included.',
+  'weight' => 1350, // Estimated weight in kilograms
+  'rating' => [
+      'stars' => 4.6,
+      'count' => 18
+  ],
+  'brandID' => 'Qoray-Sable',
+  'keywords' => ['Electric Vehicle', 'Qoray', 'Sable', '4-Wheeler', 'E-Mobility'],
+  'pdf' => 'assets/shop assets/datasheets/EV_Brochure.pdf',
+],
 
 ];
 
