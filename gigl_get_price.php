@@ -38,7 +38,9 @@ try {
     $token = $loginData['data']['access-token'];
 
     // 🔎 Step 2: Send Shipping Price Request to GIGL
-    $ch = curl_init("https://thirdpartynode.theagilitysystems.com/shipments/create");
+    $ch = curl_init("https://thirdpartynode.theagilitysystems.com/price");
+
+    //$ch = curl_init("https://thirdpartynode.theagilitysystems.com/shipments/create");
     curl_setopt_array($ch, [
         CURLOPT_POST => true,
         CURLOPT_RETURNTRANSFER => true,
