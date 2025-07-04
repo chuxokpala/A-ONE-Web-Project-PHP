@@ -150,8 +150,12 @@
     const row = document.createElement('tr');
 
     // Create Item Name cell
+    // const itemCell = document.createElement('td');
+    // itemCell.textContent = item.name;
+    
     const itemCell = document.createElement('td');
-    itemCell.textContent = item.name;
+    itemCell.className = 'text-start';
+    itemCell.textContent = item.name;    
 
     // Create Quantity cell
     const quantityCell = document.createElement('td');
