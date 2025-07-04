@@ -84,9 +84,9 @@
     <div class="bg-white p-4 shadow rounded mt-4">
       <h5 class="mb-3">Cart Details</h5>
       <div id="cart-details"></div>
-      <!-- <p class="mt-3"><strong>Total:</strong> ₦<span id="productTotal">0</span></p> -->
-      <p class="mt-3"><strong>Shipping:</strong> ₦<span id="shippingCost">0</span></p>
-      <p><strong>Total:</strong> ₦<span id="grandTotal">0</span></p>
+      <p class="mt-3"><strong>Total:</strong> ₦<span id="productTotal">0</span></p>
+      <p><strong>Shipping:</strong> ₦<span id="shippingCost">0</span></p>
+      <p><strong>Grand Total:</strong> ₦<span id="grandTotal">0</span></p>
     </div>
 
     <div class="text-center mt-4">
