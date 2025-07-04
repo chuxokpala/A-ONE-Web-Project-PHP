@@ -165,11 +165,7 @@
         } else {
           alert("Failed to get shipping price: " + res.message);
         }
-      })
-      .catch(error => {
-  alert("Could not calculate shipping. Try again.");
-  console.error(error);
-});
+      });
     });
     });
 
