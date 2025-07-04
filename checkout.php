@@ -94,8 +94,6 @@
   </div>
 
   <script>
-    document.addEventListener("DOMContentLoaded", function () {
-  let cart = JSON.parse(localStorage.getItem('cart')) || [];
     let cart = JSON.parse(localStorage.getItem('cart')) || [];
     let productTotal = 0;
     let shippingCost = 0;
@@ -166,7 +164,6 @@
           alert("Failed to get shipping price: " + res.message);
         }
       });
-    });
     });
 
     displayCart();
