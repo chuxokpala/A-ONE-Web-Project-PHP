@@ -22,8 +22,8 @@ include('includes/header.php');
     </div>
 
     <?php if (isset($_SESSION['user_id']) || !isset($_SESSION['user_id'])): ?>
-    <div class="text-end" style="background-color: blue">
-        <a href="checkout.php" class="btn btn-success">Proceed to Checkout</a>
+    <div class="text-end">
+        <a href="checkout.php" class="btn btn-primary">Proceed to Checkout</a>
     </div>    
     <?php else: ?>
             <p class="text-warning">Please <a href="login.php">login</a> to proceed to checkout.</p>
