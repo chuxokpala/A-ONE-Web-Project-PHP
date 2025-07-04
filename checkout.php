@@ -92,7 +92,7 @@
       <table class="table table-bordered align-middle text-center">
         <thead class="table-light">
           <tr>
-            <th>Item</th>
+            <th>Item(s)</th>
             <th>Units</th>
             <th>Unit Cost</th>
           </tr>
@@ -107,9 +107,24 @@
 
 
 
-      <p class="mt-3"><strong>Shipping:</strong> ₦<span id="shippingCost">0</span></p>
+    <div class="d-flex justify-content-between mt-3">
+  <strong>Total:</strong>
+  <span id="productTotal">₦0</span>
+</div>
+<div class="d-flex justify-content-between">
+  <strong>Shipping:</strong>
+  <span id="shippingCost">₦0</span>
+</div>
+<div class="d-flex justify-content-between border-top pt-2 mt-2">
+  <strong>Grand Total:</strong>
+  <span id="grandTotal">₦0</span>
+</div>
+
+
+
+      <!-- <p class="mt-3"><strong>Shipping:</strong> ₦<span id="shippingCost">0</span></p>
       <p><strong>Total:</strong> ₦<span id="grandTotal">0</span></p>
-    </div>
+    </div> -->
 
     <div class="text-center mt-4">
       <button id="placeOrderBtn" class="btn btn-primary btn-lg">Pay Now</button>
