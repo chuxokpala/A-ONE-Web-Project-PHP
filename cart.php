@@ -10,7 +10,18 @@ include('includes/header.php');
     </div>
 
     <div id="cartSummary" style="display:none;">
+
+        <!-- <h4>Total: ₦<span id="totalPrice">0.00</span></h4> -->
+        
+        <div id="cartSummary" style="display:none;">
         <h4>Total: ₦<span id="totalPrice">0.00</span></h4>
+        <?php if (isset($_SESSION['user_id']) || !isset($_SESSION['user_id'])): ?>
+            <a href="checkout.php" class="btn btn-success">Proceed to Checkout</a>
+        <?php else: ?>
+            <p class="text-warning">Please <a href="login.php">login</a> to proceed to checkout.</p>
+        <?php endif; ?>
+        </div>  
+                
         <?php if (isset($_SESSION['user_id']) || !isset($_SESSION['user_id'])): ?>
             <a href="checkout.php" class="btn btn-success">Proceed to Checkout</a>
         <?php else: ?>
