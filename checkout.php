@@ -166,9 +166,13 @@
     unitCostCell.textContent = formatter.format(item.price);
 
     // ✅ Create Subtotal cell (Unit Price x Quantity)
+    // const subtotalCell = document.createElement('td');
+    // const subtotal = item.price * item.quantity;
+    // subtotalCell.textContent = formatter.format(subtotal);
+
     const subtotalCell = document.createElement('td');
-    const subtotal = item.price * item.quantity;
-    subtotalCell.textContent = formatter.format(subtotal);
+    subtotalCell.className = 'text-end'; // ✅ align to the right
+    subtotalCell.textContent = formatter.format(item.price * item.quantity);
 
     // Append all cells to the row
     row.appendChild(itemCell);
