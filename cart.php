@@ -104,7 +104,10 @@ function syncCartFromServer() {
             cartItemsDiv.appendChild(itemDiv);
         });
 
-        totalPriceEl.textContent = total.toFixed(2);
+        totalPriceEl.textContent = new Intl.NumberFormat('en-NG', {
+            style: 'currency',
+            currency: 'NGN'
+        }).format(total);
 
         // Button handlers
         document.querySelectorAll('.increase').forEach(button => {
