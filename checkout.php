@@ -1,6 +1,7 @@
-<?php session_start(); ?>
 <?php require('includes/header.php')?>
 
+<?php session_start(); ?>
+<?php ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -83,45 +84,7 @@
 
     <div class="bg-white p-4 shadow rounded mt-4">
       <h5 class="mb-3">Cart Details</h5>
-
-
-
-
-      <!-- <div id="cart-details"></div> -->
-      <div id="cart-details" class="table-responsive">
-      <table class="table table-bordered align-middle text-center">
-        <thead class="table-light">
-          <tr>
-            <th>Item(s)</th>
-            <th>Units</th>
-            <th>Unit Cost</th>
-          </tr>
-        </thead>
-        <tbody id="cart-body">
-          <!-- JavaScript will fill this -->
-        </tbody>
-      </table>
-    </div>
-
-
-
-
-
-    <!-- <div class="d-flex justify-content-between mt-3">
-  <strong>Total:</strong>
-  <span id="productTotal">₦0</span>
-</div>
-<div class="d-flex justify-content-between">
-  <strong>Shipping:</strong>
-  <span id="shippingCost">₦0</span>
-</div>
-<div class="d-flex justify-content-between border-top pt-2 mt-2">
-  <strong>Grand Total:</strong>
-  <span id="grandTotal">₦0</span>
-</div> -->
-
-
-
+      <div id="cart-details"></div>
       <p class="mt-3"><strong>Shipping:</strong> ₦<span id="shippingCost">0</span></p>
       <p><strong>Total:</strong> ₦<span id="grandTotal">0</span></p>
     </div>
@@ -132,70 +95,27 @@
   </div>
 
   <script>
-    document.addEventListener("DOMContentLoaded", function () {
     let cart = JSON.parse(localStorage.getItem('cart')) || [];
     let productTotal = 0;
     let shippingCost = 0;
 
-    // function displayCart() {
-    //   const container = document.getElementById('cart-details');
-    //   let html = "<ul class='list-group'>";
-    //   productTotal = 0;
-    //   cart.forEach(item => {
-    //     html += `<li class='list-group-item d-flex justify-content-between align-items-center'>
-    //                ${item.name}
-    //       <span>${new Intl.NumberFormat('en-NG', { style: 'currency', currency: 'NGN' }).format(item.price)} x ${item.quantity}</span>
-    //              </li>`;
-    //     productTotal += item.price * item.quantity;
-    //   });
-    //   html += "</ul>";
-    //   container.innerHTML = html;
-    //   updateTotals();
-    // }
-
-
     function displayCart() {
-  const tableBody = document.getElementById('cart-body');
-  tableBody.innerHTML = ''; // Clear any previous items
-
-  const formatter = new Intl.NumberFormat('en-NG', {
-    style: 'currency',
-    currency: 'NGN'
-  });
-
-  productTotal = 0;
-
-  cart.forEach(item => {
-    const row = document.createElement('tr');
-
-    const itemCell = document.createElement('td');
-    itemCell.textContent = item.name;
-
-    const quantityCell = document.createElement('td');
-    quantityCell.textContent = item.quantity;
-
-    const unitCostCell = document.createElement('td');
-    unitCostCell.textContent = formatter.format(item.price);
-
-    row.appendChild(itemCell);
-    row.appendChild(quantityCell);
-    row.appendChild(unitCostCell);
-
-    tableBody.appendChild(row);
-
-    productTotal += item.price * item.quantity;
-  });
-
-  updateTotals();
-}
-
-
-
-
-
+      const container = document.getElementById('cart-details');
+      let html = "<ul class='list-group'>";
+      productTotal = 0;
+      cart.forEach(item => {
+        html += `<li class='list-group-item d-flex justify-content-between align-items-center'>
+                   ${item.name}
+                   <span>₦${item.price.toLocaleString()} x ${item.quantity}</span>
+                 </li>`;
+        productTotal += item.price * item.quantity;
+      });
+      html += "</ul>";
+      container.innerHTML = html;
+      updateTotals();
+    }
 
     function updateTotals() {
-      document.getElementById('productTotal').textContent = formatter.format(productTotal);
       document.getElementById('shippingCost').textContent = shippingCost.toLocaleString();
       document.getElementById('grandTotal').textContent = (productTotal + shippingCost).toLocaleString();
     }
@@ -236,7 +156,6 @@
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(shipmentData)
       })
-
       .then(res => res.json())
       .then(res => {
         if (res.status === 'success') {
@@ -245,11 +164,7 @@
         } else {
           alert("Failed to get shipping price: " + res.message);
         }
-      })
-      .catch(error => {
-      alert("Could not calculate shipping. Try again.");
-      console.error(error);
-    });
+      });
     });
 
     displayCart();
@@ -300,7 +215,6 @@
                 receiver: receiverDetails
               })
             })
-            
             .then(res => res.json())
             .then(data => {
               if (data.status === "success") {
@@ -316,13 +230,12 @@
           }
         },
         customizations: {
-          title: "A-ONE E&S Ltd",
+          title: "My Store",
           description: "Payment for items and delivery",
-          logo: "./assets/web images/AESL Logo_PNG x1.png"
+          logo: "https://yourstore.com/logo.png"
         }
       });
     });
-  });
   </script>
 </body>
 </html>
