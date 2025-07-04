@@ -1,7 +1,6 @@
+<?php session_start(); ?>
 <?php require('includes/header.php')?>
 
-<?php session_start(); ?>
-<?php ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,7 +31,6 @@
       <div class="mb-3">
         <select class="form-select" name="receiver_station_id" required>
           <option value="">Select Station</option>
-          <option value="1">ABA</option>
           <option value="1">Aba</option>
           <option value="2">Abeokuta</option>
           <option value="3">Abakaliki</option>
@@ -96,6 +94,7 @@
   </div>
 
   <script>
+    document.addEventListener("DOMContentLoaded", function () {
     let cart = JSON.parse(localStorage.getItem('cart')) || [];
     let productTotal = 0;
     let shippingCost = 0;
@@ -237,6 +236,7 @@
         }
       });
     });
+  });
   </script>
 </body>
 </html>
