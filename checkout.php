@@ -122,21 +122,62 @@
     let productTotal = 0;
     let shippingCost = 0;
 
+    // function displayCart() {
+    //   const container = document.getElementById('cart-details');
+    //   let html = "<ul class='list-group'>";
+    //   productTotal = 0;
+    //   cart.forEach(item => {
+    //     html += `<li class='list-group-item d-flex justify-content-between align-items-center'>
+    //                ${item.name}
+    //       <span>${new Intl.NumberFormat('en-NG', { style: 'currency', currency: 'NGN' }).format(item.price)} x ${item.quantity}</span>
+    //              </li>`;
+    //     productTotal += item.price * item.quantity;
+    //   });
+    //   html += "</ul>";
+    //   container.innerHTML = html;
+    //   updateTotals();
+    // }
+
+
     function displayCart() {
-      const container = document.getElementById('cart-details');
-      let html = "<ul class='list-group'>";
-      productTotal = 0;
-      cart.forEach(item => {
-        html += `<li class='list-group-item d-flex justify-content-between align-items-center'>
-                   ${item.name}
-          <span>${new Intl.NumberFormat('en-NG', { style: 'currency', currency: 'NGN' }).format(item.price)} x ${item.quantity}</span>
-                 </li>`;
-        productTotal += item.price * item.quantity;
-      });
-      html += "</ul>";
-      container.innerHTML = html;
-      updateTotals();
-    }
+  const tableBody = document.getElementById('cart-body');
+  tableBody.innerHTML = ''; // Clear any previous items
+
+  const formatter = new Intl.NumberFormat('en-NG', {
+    style: 'currency',
+    currency: 'NGN'
+  });
+
+  productTotal = 0;
+
+  cart.forEach(item => {
+    const row = document.createElement('tr');
+
+    const itemCell = document.createElement('td');
+    itemCell.textContent = item.name;
+
+    const quantityCell = document.createElement('td');
+    quantityCell.textContent = item.quantity;
+
+    const unitCostCell = document.createElement('td');
+    unitCostCell.textContent = formatter.format(item.price);
+
+    row.appendChild(itemCell);
+    row.appendChild(quantityCell);
+    row.appendChild(unitCostCell);
+
+    tableBody.appendChild(row);
+
+    productTotal += item.price * item.quantity;
+  });
+
+  updateTotals();
+}
+
+
+
+
+
 
     function updateTotals() {
       document.getElementById('shippingCost').textContent = shippingCost.toLocaleString();
