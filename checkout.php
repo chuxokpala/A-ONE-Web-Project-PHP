@@ -90,15 +90,14 @@
       <!-- <div id="cart-details"></div> -->
 <div id="cart-details" class="table-responsive">
     <table class="table table-bordered align-middle text-center">
-  <thead class="table-light">
-    <tr>
-      <th class="text-start">Item(s)</th>        <!-- align left -->
-      <th class="text-center">Units</th>
-      <th class="text-center">Unit Cost</th>
-      <th class="text-end">Subtotal</th>         <!-- align right -->
-    </tr>
-  </thead>
-
+    <thead class="table-light">
+      <tr>
+        <th class="text-start">Item(s)</th>        <!-- align left -->
+        <th class="text-center">Units</th>
+        <th class="text-center">Unit Cost</th>
+        <th class="text-end">Subtotal</th>         <!-- align right -->
+      </tr>
+    </thead>
       <tbody id="cart-body">
         <!-- JavaScript will fill this -->
       </tbody>
