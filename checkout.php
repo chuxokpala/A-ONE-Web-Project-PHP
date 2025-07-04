@@ -230,9 +230,9 @@
           }
         },
         customizations: {
-          title: "My Store",
+          title: "A-ONE Electric & Solar Ltd",
           description: "Payment for items and delivery",
-          logo: "https://yourstore.com/logo.png"
+          logo: "./assets/web images/AESL Logo_PNG x1.png"
         }
       });
     });
