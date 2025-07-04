@@ -83,7 +83,32 @@
 
     <div class="bg-white p-4 shadow rounded mt-4">
       <h5 class="mb-3">Cart Details</h5>
-      <div id="cart-details"></div>
+
+
+
+
+      <!-- <div id="cart-details"></div> -->
+<div id="cart-details" class="table-responsive">
+  <table class="table table-bordered align-middle text-center">
+    <thead class="table-light">
+      <tr>
+        <th>Item</th>
+        <th>Units</th>
+        <th>Unit Cost</th>
+        <th>Subtotal</th>
+      </tr>
+    </thead>
+    <tbody id="cart-body">
+      <!-- JavaScript will fill this -->
+    </tbody>
+  </table>
+</div>
+
+
+
+
+
+
 <div class="d-flex justify-content-between mt-3">
   <strong>Total:</strong>
   <span id="productTotal">₦0</span>
