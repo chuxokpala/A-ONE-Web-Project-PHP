@@ -89,43 +89,40 @@
 
       <!-- <div id="cart-details"></div> -->
 <div id="cart-details" class="table-responsive">
-  <table class="table table-bordered align-middle text-center">
-    <thead class="table-light">
-      <tr>
-        <th>Item</th>
-        <th>Units</th>
-        <th>Unit Cost</th>
-        <th>Subtotal</th>
-      </tr>
-    </thead>
-    <tbody id="cart-body">
-      <!-- JavaScript will fill this -->
-    </tbody>
-  </table>
-</div>
+    <table class="table table-bordered align-middle text-center">
+      <thead class="table-light">
+        <tr>
+          <th>Item(s)</th>
+          <th>Units</th>
+          <th>Unit Cost</th>
+          <th>Subtotal</th>
+        </tr>
+      </thead>
+      <tbody id="cart-body">
+        <!-- JavaScript will fill this -->
+      </tbody>
+    </table>
+  </div>
 
-
-
-
-
-
-<div class="table-responsive mt-4">
-  <table class="table table-bordered text-end">
-    <tbody>
-      <tr>
-        <th class="text-start">Total (Items)</th>
-        <td id="productTotal">₦0</td>
-      </tr>
-      <tr>
-        <th class="text-start">Shipping</th>
-        <td id="shippingCost">₦0</td>
-      </tr>
-      <tr class="table-light fw-bold">
-        <th class="text-start">Grand Total</th>
-        <td id="grandTotal">₦0</td>
-      </tr>
-    </tbody>
-  </table>
+  <!-- ✅ Total Summary Table -->
+  <div class="table-responsive">
+    <table class="table table-bordered text-end mb-0">
+      <tbody>
+        <tr>
+          <th class="text-start">Total (Items)</th>
+          <td id="productTotal">₦0</td>
+        </tr>
+        <tr>
+          <th class="text-start">Shipping</th>
+          <td id="shippingCost">₦0</td>
+        </tr>
+        <tr class="table-light fw-bold">
+          <th class="text-start">Grand Total</th>
+          <td id="grandTotal">₦0</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
 
     <div class="text-center mt-4">
