@@ -151,7 +151,6 @@
 
     // Create Item Name cell
     const itemCell = document.createElement('td');
-    itemCell.className = 'text-start';
     itemCell.textContent = item.name;
 
     // Create Quantity cell
@@ -164,8 +163,8 @@
 
     // ✅ Create Subtotal cell (Unit Price x Quantity)
     const subtotalCell = document.createElement('td');
-    subtotalCell.className = 'text-end'; // ✅ align to the right
-    subtotalCell.textContent = formatter.format(item.price * item.quantity);
+    const subtotal = item.price * item.quantity;
+    subtotalCell.textContent = formatter.format(subtotal);
 
     // Append all cells to the row
     row.appendChild(itemCell);
