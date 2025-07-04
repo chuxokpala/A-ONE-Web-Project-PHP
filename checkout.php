@@ -155,7 +155,7 @@
     // }
 
 
-function displayCart() {
+    function displayCart() {
   const tableBody = document.getElementById('cart-body');
   tableBody.innerHTML = ''; // Clear any previous items
 
@@ -169,34 +169,22 @@ function displayCart() {
   cart.forEach(item => {
     const row = document.createElement('tr');
 
-    // Create Item Name cell
     const itemCell = document.createElement('td');
     itemCell.textContent = item.name;
 
-    // Create Quantity cell
     const quantityCell = document.createElement('td');
     quantityCell.textContent = item.quantity;
 
-    // Create Unit Cost cell
     const unitCostCell = document.createElement('td');
     unitCostCell.textContent = formatter.format(item.price);
 
-    // ✅ Create Subtotal cell (Unit Price x Quantity)
-    const subtotalCell = document.createElement('td');
-    const subtotal = item.price * item.quantity;
-    subtotalCell.textContent = formatter.format(subtotal);
-
-    // Append all cells to the row
     row.appendChild(itemCell);
     row.appendChild(quantityCell);
     row.appendChild(unitCostCell);
-    row.appendChild(subtotalCell); // ✅ Add subtotal cell here
 
-    // Append the row to the table
     tableBody.appendChild(row);
 
-    // Add to total
-    productTotal += subtotal;
+    productTotal += item.price * item.quantity;
   });
 
   updateTotals();
