@@ -84,6 +84,7 @@
     <div class="bg-white p-4 shadow rounded mt-4">
       <h5 class="mb-3">Cart Details</h5>
       <div id="cart-details"></div>
+      <p class="mt-3"><strong>Total:</strong> ₦<span id="productTotal">0</span></p>
       <p class="mt-3"><strong>Shipping:</strong> ₦<span id="shippingCost">0</span></p>
       <p><strong>Total:</strong> ₦<span id="grandTotal">0</span></p>
     </div>
@@ -114,10 +115,27 @@
       updateTotals();
     }
 
+    // function updateTotals() {      
+    //   document.getElementById('shippingCost').textContent = shippingCost.toLocaleString();
+    //   document.getElementById('grandTotal').textContent = (productTotal + shippingCost).toLocaleString();
+    // }
+
     function updateTotals() {
-      document.getElementById('shippingCost').textContent = shippingCost.toLocaleString();
-      document.getElementById('grandTotal').textContent = (productTotal + shippingCost).toLocaleString();
-    }
+  // Format prices as Nigerian Naira
+  const formatter = new Intl.NumberFormat('en-NG', {
+    style: 'currency',
+    currency: 'NGN'
+  });
+
+  // Show Total (Products only)
+  document.getElementById('productTotal').textContent = formatter.format(productTotal);
+
+  // Show Shipping
+  document.getElementById('shippingCost').textContent = formatter.format(shippingCost);
+
+  // Show Grand Total
+  document.getElementById('grandTotal').textContent = formatter.format(productTotal + shippingCost);
+}
 
     document.querySelector('select[name="receiver_station_id"]').addEventListener('change', () => {
       const stationId = parseInt(document.querySelector('select[name="receiver_station_id"]').value);
