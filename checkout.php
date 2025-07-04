@@ -109,19 +109,24 @@
 
 
 
-<div class="d-flex justify-content-between mt-3">
-  <strong>Total:</strong>
-  <span id="productTotal">₦0</span>
+<div class="table-responsive mt-4">
+  <table class="table table-bordered text-end">
+    <tbody>
+      <tr>
+        <th class="text-start">Total (Items)</th>
+        <td id="productTotal">₦0</td>
+      </tr>
+      <tr>
+        <th class="text-start">Shipping</th>
+        <td id="shippingCost">₦0</td>
+      </tr>
+      <tr class="table-light fw-bold">
+        <th class="text-start">Grand Total</th>
+        <td id="grandTotal">₦0</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-<div class="d-flex justify-content-between">
-  <strong>Shipping:</strong>
-  <span id="shippingCost">₦0</span>
-</div>
-<div class="d-flex justify-content-between border-top pt-2 mt-2">
-  <strong>Grand Total:</strong>
-  <span id="grandTotal">₦0</span>
-</div>
- </div>
 
     <div class="text-center mt-4">
       <button id="placeOrderBtn" class="btn btn-primary btn-lg">Pay Now</button>
