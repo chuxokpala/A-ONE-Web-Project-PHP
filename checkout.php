@@ -90,13 +90,13 @@
       <!-- <div id="cart-details"></div> -->
 <div id="cart-details" class="table-responsive">
     <table class="table table-bordered align-middle text-center">
-      <thead class="table-light">
-        <tr>
-          <th>Item(s)</th>
-          <th>Units</th>
-          <th>Unit Cost</th>
-          <th>Subtotal</th>
-        </tr>
+    <thead class="table-light">
+      <tr>
+        <th class="text-start">Item(s)</th>        <!-- align left -->
+        <th class="text-center">Units</th>
+        <th class="text-center">Unit Cost</th>
+        <th class="text-end">Subtotal</th>         <!-- align right -->
+      </tr>
       </thead>
       <tbody id="cart-body">
         <!-- JavaScript will fill this -->
@@ -150,21 +150,24 @@
     const row = document.createElement('tr');
 
     // Create Item Name cell
-    const itemCell = document.createElement('td');
-    itemCell.textContent = item.name;
+const itemCell = document.createElement('td');
+itemCell.className = 'text-start';
+itemCell.textContent = item.name;
 
     // Create Quantity cell
-    const quantityCell = document.createElement('td');
-    quantityCell.textContent = item.quantity;
+const quantityCell = document.createElement('td');
+quantityCell.className = 'text-center';
+quantityCell.textContent = item.quantity;
 
     // Create Unit Cost cell
     const unitCostCell = document.createElement('td');
-    unitCostCell.textContent = formatter.format(item.price);
+unitCostCell.className = 'text-center';
+unitCostCell.textContent = formatter.format(item.price);
 
     // ✅ Create Subtotal cell (Unit Price x Quantity)
     const subtotalCell = document.createElement('td');
-    const subtotal = item.price * item.quantity;
-    subtotalCell.textContent = formatter.format(subtotal);
+subtotalCell.className = 'text-end'; // ✅ align to the right
+subtotalCell.textContent = formatter.format(item.price * item.quantity);
 
     // Append all cells to the row
     row.appendChild(itemCell);
