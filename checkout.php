@@ -106,7 +106,7 @@
       cart.forEach(item => {
         html += `<li class='list-group-item d-flex justify-content-between align-items-center'>
                    ${item.name}
-                   <span>₦${item.price.toLocaleString()} x ${item.quantity}</span>
+          <span>${new Intl.NumberFormat('en-NG', { style: 'currency', currency: 'NGN' }).format(item.price)} x ${item.quantity}</span>
                  </li>`;
         productTotal += item.price * item.quantity;
       });
@@ -167,9 +167,9 @@
         }
       })
       .catch(error => {
-  alert("Could not calculate shipping. Try again.");
-  console.error(error);
-});
+      alert("Could not calculate shipping. Try again.");
+      console.error(error);
+    });
     });
 
     displayCart();
