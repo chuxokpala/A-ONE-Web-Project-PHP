@@ -156,6 +156,7 @@
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(shipmentData)
       })
+
       .then(res => res.json())
       .then(res => {
         if (res.status === 'success') {
@@ -164,7 +165,11 @@
         } else {
           alert("Failed to get shipping price: " + res.message);
         }
-      });
+      })
+      .catch(error => {
+  alert("Could not calculate shipping. Try again.");
+  console.error(error);
+});
     });
 
     displayCart();
