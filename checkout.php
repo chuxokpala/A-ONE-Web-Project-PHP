@@ -84,9 +84,6 @@
     <div class="bg-white p-4 shadow rounded mt-4">
       <h5 class="mb-3">Cart Details</h5>
 
-
-
-
       <!-- <div id="cart-details"></div> -->
 <div id="cart-details" class="table-responsive">
     <table class="table table-bordered align-middle text-center">
@@ -104,7 +101,7 @@
     </table>
   </div>
 
-  <!-- ✅ Total Summary Table -->
+  <!-- Total Summary Table -->
   <div class="table-responsive">
     <table class="table table-bordered text-end mb-0">
       <tbody>
@@ -150,9 +147,6 @@
     const row = document.createElement('tr');
 
     // Create Item Name cell
-    // const itemCell = document.createElement('td');
-    // itemCell.textContent = item.name;
-    
     const itemCell = document.createElement('td');
     itemCell.className = 'text-start';
     itemCell.textContent = item.name;    
@@ -165,9 +159,9 @@
     const unitCostCell = document.createElement('td');
     unitCostCell.textContent = formatter.format(item.price);
 
-    // ✅ Create Subtotal cell (Unit Price x Quantity)
+    // Create Subtotal cell (Unit Price x Quantity)
     const subtotalCell = document.createElement('td');
-    subtotalCell.className = 'text-end'; // ✅ align to the right
+    subtotalCell.className = 'text-end'; // align to the right
     const subtotal = item.price * item.quantity;
 
     subtotalCell.textContent = formatter.format(subtotal);
@@ -176,7 +170,7 @@
     row.appendChild(itemCell);
     row.appendChild(quantityCell);
     row.appendChild(unitCostCell);
-    row.appendChild(subtotalCell); // ✅ Add subtotal cell here
+    row.appendChild(subtotalCell); //Add subtotal cell here
 
     // Append the row to the table
     tableBody.appendChild(row);
@@ -188,45 +182,22 @@
   updateTotals();
 }
 
-
-
-    // function displayCart() {
-    //   const container = document.getElementById('cart-details');
-    //   let html = "<ul class='list-group'>";
-    //   productTotal = 0;
-    //   cart.forEach(item => {
-    //     html += `<li class='list-group-item d-flex justify-content-between align-items-center'>
-    //                ${item.name}
-    //                 <span>${new Intl.NumberFormat('en-NG', { style: 'currency', currency: 'NGN' }).format(item.price)} x ${item.quantity}</span>
-    //              </li>`;
-    //     productTotal += item.price * item.quantity;
-    //   });
-    //   html += "</ul>";
-    //   container.innerHTML = html;
-    //   updateTotals();
-    // }
-
-    // function updateTotals() {      
-    //   document.getElementById('shippingCost').textContent = shippingCost.toLocaleString();
-    //   document.getElementById('grandTotal').textContent = (productTotal + shippingCost).toLocaleString();
-    // }
-
     function updateTotals() {
   // Format prices as Nigerian Naira
-  const formatter = new Intl.NumberFormat('en-NG', {
-    style: 'currency',
-    currency: 'NGN'
-  });
+    const formatter = new Intl.NumberFormat('en-NG', {
+      style: 'currency',
+      currency: 'NGN'
+    });
 
-  // Show Total (Products only)
-  document.getElementById('productTotal').textContent = formatter.format(productTotal);
+    // Show Total (Products only)
+    document.getElementById('productTotal').textContent = formatter.format(productTotal);
 
-  // Show Shipping
-  document.getElementById('shippingCost').textContent = formatter.format(shippingCost);
+    // Show Shipping
+    document.getElementById('shippingCost').textContent = formatter.format(shippingCost);
 
-  // Show Grand Total
-  document.getElementById('grandTotal').textContent = formatter.format(productTotal + shippingCost);
-}
+    // Show Grand Total
+    document.getElementById('grandTotal').textContent = formatter.format(productTotal + shippingCost);
+    }
 
     document.querySelector('select[name="receiver_station_id"]').addEventListener('change', () => {
       const stationId = parseInt(document.querySelector('select[name="receiver_station_id"]').value);
