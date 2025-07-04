@@ -215,9 +215,9 @@
                 receiver: receiverDetails
               })
             })
-
+            
             .then(res => res.json())
-            .then(res => {
+            .then(data => {
               if (data.status === "success") {
                 alert("Order placed! Waybill: " + data.waybill);
                 localStorage.removeItem('cart');
@@ -225,14 +225,6 @@
               } else {
                 alert("Order failed: " + data.message);
               }
-            });
-          } else {
-            alert("Payment not completed.");
-          }
-            })
-            .catch(error => {
-              alert("Could not calculate shipping. Try again.");
-              console.error(error);
             });
           } else {
             alert("Payment not completed.");
