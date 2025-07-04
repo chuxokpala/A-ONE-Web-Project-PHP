@@ -115,10 +115,31 @@
       updateTotals();
     }
 
+    // function updateTotals() {
+    //   document.getElementById('shippingCost').textContent = shippingCost.toLocaleString();
+    //   document.getElementById('grandTotal').textContent = (productTotal + shippingCost).toLocaleString();
+    // }
+
     function updateTotals() {
-      document.getElementById('shippingCost').textContent = shippingCost.toLocaleString();
-      document.getElementById('grandTotal').textContent = (productTotal + shippingCost).toLocaleString();
-    }
+  // Format prices as Nigerian Naira
+  const formatter = new Intl.NumberFormat('en-NG', {
+    style: 'currency',
+    currency: 'NGN'
+  });
+
+  // Show Total (Products only)
+  document.getElementById('productTotal').textContent = formatter.format(productTotal);
+
+  // Show Shipping
+  document.getElementById('shippingCost').textContent = formatter.format(shippingCost);
+
+  // Show Grand Total
+  document.getElementById('grandTotal').textContent = formatter.format(productTotal + shippingCost);
+}
+
+
+
+
 
     document.querySelector('select[name="receiver_station_id"]').addEventListener('change', () => {
       const stationId = parseInt(document.querySelector('select[name="receiver_station_id"]').value);
