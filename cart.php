@@ -9,25 +9,25 @@ include('includes/header.php');
         <!-- Cart items will be rendered here by JS -->
     </div>
 
-    <div id="cartSummary" style="display:none;">
-
-        <!-- <h4>Total: ₦<span id="totalPrice">0.00</span></h4> -->
-        
-        <div id="cartSummary" style="display:none;">
-        <h4>Total: ₦<span id="totalPrice">0.00</span></h4>
-        <?php if (isset($_SESSION['user_id']) || !isset($_SESSION['user_id'])): ?>
-            <a href="checkout.php" class="btn btn-success">Proceed to Checkout</a>
-        <?php else: ?>
-            <p class="text-warning">Please <a href="login.php">login</a> to proceed to checkout.</p>
-        <?php endif; ?>
-        </div>  
-                
-        <?php if (isset($_SESSION['user_id']) || !isset($_SESSION['user_id'])): ?>
-            <a href="checkout.php" class="btn btn-success">Proceed to Checkout</a>
-        <?php else: ?>
-            <p class="text-warning">Please <a href="login.php">login</a> to proceed to checkout.</p>
-        <?php endif; ?>
+<div id="cartSummary" style="display:none;">
+    <div class="table-responsive mb-3">
+        <table class="table table-bordered text-end">
+            <tbody>
+                <tr>
+                    <th class="text-start">Total (Items)</th>
+                    <td><span id="totalPrice">₦0.00</span></td>
+                </tr>
+            </tbody>
+        </table>
     </div>
+
+    <?php if (isset($_SESSION['user_id']) || !isset($_SESSION['user_id'])): ?>
+        <a href="checkout.php" class="btn btn-success">Proceed to Checkout</a>
+    <?php else: ?>
+        <p class="text-warning">Please <a href="login.php">login</a> to proceed to checkout.</p>
+    <?php endif; ?>
+</div>
+
 
     <div id="emptyCartMessage" class="alert alert-info" style="display:none;">
         Your cart is empty. <a href="shop.php">Start shopping now!</a>
