@@ -95,7 +95,6 @@
             <th>Item(s)</th>
             <th>Units</th>
             <th>Unit Cost</th>
-            <th>Subtotal</th>
           </tr>
         </thead>
         <tbody id="cart-body">
