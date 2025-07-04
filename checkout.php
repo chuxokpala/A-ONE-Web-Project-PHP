@@ -215,8 +215,9 @@
                 receiver: receiverDetails
               })
             })
+
             .then(res => res.json())
-            .then(data => {
+            .then(res => {
               if (data.status === "success") {
                 alert("Order placed! Waybill: " + data.waybill);
                 localStorage.removeItem('cart');
@@ -228,9 +229,17 @@
           } else {
             alert("Payment not completed.");
           }
+            })
+            .catch(error => {
+              alert("Could not calculate shipping. Try again.");
+              console.error(error);
+            });
+          } else {
+            alert("Payment not completed.");
+          }
         },
         customizations: {
-          title: "A-ONE Electric & Solar Ltd",
+          title: "A-ONE E&S Ltd",
           description: "Payment for items and delivery",
           logo: "./assets/web images/AESL Logo_PNG x1.png"
         }
