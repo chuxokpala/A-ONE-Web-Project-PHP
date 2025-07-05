@@ -1,22 +1,22 @@
 <?php
     // Sample products array (replace with DB query later)
     $products = [
-      [
-        'id' => 1.1,
-        'name' => 'Foresolar 200W Solar Panel',
-        'price' => 85000,
-        'image' => 'assets/shop assets/product images/MonoSolarPanel.jpg',
-        'category' => 'Solar Panels',
-        'description' => 'Foresolar 200W Monocrystalline Solar Panel delivers reliable performance for off-grid and small-scale energy systems.',
-        'weight' => 11.0,
-        'rating' => [
-          'stars' => 4.3,
-          'count' => 9
-        ],
-        'brandID' => 'FORESOLAR-200W',
-        'keywords' => ['Foresolar', '200W Panel', 'Monocrystalline', 'Solar'],
-        'pdf' => 'assets/shop assets/datasheets/foresolarMonoSolarPanel200-450W.pdf',
-      ],
+      // [
+      //   'id' => 1.1,
+      //   'name' => 'Foresolar 200W Solar Panel',
+      //   'price' => 85000,
+      //   'image' => 'assets/shop assets/product images/MonoSolarPanel.jpg',
+      //   'category' => 'Solar Panels',
+      //   'description' => 'Foresolar 200W Monocrystalline Solar Panel delivers reliable performance for off-grid and small-scale energy systems.',
+      //   'weight' => 11.0,
+      //   'rating' => [
+      //     'stars' => 4.3,
+      //     'count' => 9
+      //   ],
+      //   'brandID' => 'FORESOLAR-200W',
+      //   'keywords' => ['Foresolar', '200W Panel', 'Monocrystalline', 'Solar'],
+      //   'pdf' => 'assets/shop assets/datasheets/foresolarMonoSolarPanel200-450W.pdf',
+      // ],
 
       [
         'id' => 1.2,
@@ -68,8 +68,57 @@
         'keywords' => ['Foresolar', '450W Panel', 'High Wattage Solar', 'Energy Solutions'],
         'pdf' => 'assets/shop assets/datasheets/foresolarMonoSolarPanel200-450W.pdf',
       ],
+      [
+        'id' => 2.1,
+        'name' => 'Foresolar 450W Half-Cut Solar Panel',
+        'price' => 142000,
+        'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
+        'category' => 'Solar Panels',
+        'description' => 'Foresolar 450W Half-Cut Monocrystalline Solar Panel offers improved performance and durability with reduced cell shading and higher energy yields.',
+        'weight' => 22.5,
+        'rating' => [
+          'stars' => 4.7,
+          'count' => 14
+        ],
+        'brandID' => 'FORESOLAR-HC-450W',
+        'keywords' => ['Foresolar', '450W Half-Cut', 'High Efficiency', 'Solar Technology'],
+        'pdf' => 'assets/shop assets/datasheets/foresolarHalfCutPanels450-600W.pdf',
+      ],
 
-            [
+      [
+        'id' => 2.2,
+        'name' => 'Foresolar 500W Half-Cut Solar Panel',
+        'price' => 165000,
+        'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
+        'category' => 'Solar Panels',
+        'description' => 'Foresolar 500W Half-Cut Monocrystalline Solar Panel provides optimal performance for commercial-scale and grid-tied installations.',
+        'weight' => 24.0,
+        'rating' => [
+          'stars' => 4.8,
+          'count' => 18
+        ],
+        'brandID' => 'FORESOLAR-HC-500W',
+        'keywords' => ['Foresolar', '500W Panel', 'Half-Cut Module', 'Clean Energy'],
+        'pdf' => 'assets/shop assets/datasheets/foresolarHalfCutPanels450-600W.pdf',
+      ],
+
+      [
+        'id' => 2.3,
+        'name' => 'Foresolar 600W Half-Cut Solar Panel',
+        'price' => 185000,
+        'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
+        'category' => 'Solar Panels',
+        'description' => 'Foresolar 600W Half-Cut Solar Panel is engineered for utility-scale projects, offering maximum output with minimal losses.',
+        'weight' => 26.5,
+        'rating' => [
+          'stars' => 4.9,
+          'count' => 21
+        ],
+        'brandID' => 'FORESOLAR-HC-600W',
+        'keywords' => ['Foresolar', '600W Panel', 'High Output', 'Half-Cell Technology'],
+        'pdf' => 'assets/shop assets/datasheets/foresolarHalfCutPanels450-600W.pdf',
+      ],
+      [
         'id' => 1,
         'name' => 'JinKO 625W Solar Panel',
         'price' => 293000.00,
@@ -286,11 +335,11 @@
   [
     'id' => 16,
     'name' => '5KVA Offgrid Inverter',
-    'price' => 0,
+    'price' => 1200000,
     'image' => 'assets\shop assets\product images\Hybrid 5KVA & 3KVA Wallmounted Inverter.jpg',
     'category' => 'Inverters',
     'description' => 'A 5KVA wall-mounted off-grid inverter converts solar or battery power to AC, ideal for homes or small businesses without grid access.',
-    'weight' => 3.5, // Weight in kilograms
+    'weight' => 12.5, // Weight in kilograms
     'rating' => [
         'stars' => 43,
         'count' => 56
@@ -302,11 +351,11 @@
   [
     'id' => 17,
     'name' => '3KVA Offgrid Inverter',
-    'price' => 0,
+    'price' => 825000,
     'image' => 'assets\shop assets\product images\Hybrid 5KVA & 3KVA Wallmounted Inverter.jpg',
     'category' => 'Inverters',
     'description' => 'A 3KVA wall-mounted off-grid inverter converts solar or battery power to AC, ideal for homes or small businesses without grid access.',
-    'weight' => 3.5, // Weight in kilograms
+    'weight' => 10.5, // Weight in kilograms
     'rating' => [
         'stars' => 46,
         'count' => 32
