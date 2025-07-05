@@ -1100,6 +1100,119 @@
   'keywords' => ['EV Charger', 'felicity', 'Products', 'A-ONE'],
   'pdf' => 'assets\shop assets\datasheets\AtlasAVHomeChargerQuickstartGuide.pdf',
 ],
+
+[
+    'id' => 64,
+    'name' => 'felicity 30A MPPT Charge Controller',
+    'price' => 124000,
+    'image' => 'assets\shop assets\product images\felicityMPPTCController.jpg',
+    'category' => 'Solar Charge Controllers',
+    'description' => '30A MPPT solar charge controller with 12V/24V auto recognition and lithium battery wake-up function. High tracking efficiency and multi-protection features.',
+    'weight' => 2.5,
+    'rating' => [
+        'stars' => 46,
+        'count' => 23
+    ],
+    'brandID' => 'FL-MPPT30A',
+    'keywords' => ['MPPT', 'Felicity', 'Lithium Battery', 'Solar'],
+    'pdf' => 'assets\shop assets\datasheets\felicityMPPTCController20-80A.pdf',
+  ],
+  [
+    'id' => 65,
+    'name' => 'felicity 45A MPPT Charge Controller',
+    'price' => 153000,
+    'image' => 'assets\shop assets\product images\felicityMPPTCController.jpg',
+    'category' => 'Solar Charge Controllers',
+    'description' => '45A MPPT 12V/24V charge controller with lithium battery wake-up function and high conversion efficiency. Ideal for residential or mobile systems.',
+    'weight' => 3.0,
+    'rating' => [
+        'stars' => 47,
+        'count' => 19
+    ],
+    'brandID' => 'FL-MPPT45A24V',
+    'keywords' => ['MPPT', 'Felicity', '45A', '12V', '24V', 'Lithium'],
+    'pdf' => 'assets\shop assets\datasheets\felicityMPPTCController20-80A.pdf',
+  ],
+  [
+    'id' => 66,
+    'name' => 'felicity 45A MPPT Charge Controller',
+    'price' => 229000,
+    'image' => 'assets\shop assets\product images\felicityMPPTCController.jpg',
+    'category' => 'Solar Charge Controllers',
+    'description' => 'Advanced 45A MPPT charge controller for 12V, 24V, or 48V systems with lithium battery activation feature and enhanced tracking algorithm.',
+    'weight' => 3.2,
+    'rating' => [
+        'stars' => 47,
+        'count' => 17
+    ],
+    'brandID' => 'FL-MPPT45A48V',
+    'keywords' => ['MPPT', '48V', 'Felicity', 'Lithium Battery'],
+    'pdf' => 'assets\shop assets\datasheets\felicityMPPTCController20-80A.pdf',
+  ],
+  [
+    'id' => 67,
+    'name' => 'felicity 60A MPPT Charge Controller',
+    'price' => 268000,
+    'image' => 'assets\shop assets\product images\felicityMPPTCController.jpg',
+    'category' => 'Solar Charge Controllers',
+    'description' => 'FL-SCCM6048 60A MPPT charge controller supports 12V/24V/48V systems. Includes lithium battery wake-up function, LCD display, and smart protections.',
+    'weight' => 4.0,
+    'rating' => [
+        'stars' => 48,
+        'count' => 25
+    ],
+    'brandID' => 'FL-SCCM6048',
+    'keywords' => ['60A', 'MPPT', 'Felicity', 'SCCM', 'Solar', 'Lithium'],
+    'pdf' => 'assets\shop assets\datasheets\felicityMPPTCController20-80A.pdf',
+  ],
+  [
+    'id' => 68,
+    'name' => 'felicity 80A MPPT Charge Controller',
+    'price' => 406000,
+    'image' => 'assets\shop assets\product images\felicityMPPTCController.jpg',
+    'category' => 'Solar Charge Controllers',
+    'description' => '80A MPPT charge controller (FL-SCCM8048) with multi-voltage support (12V/24V/48V) and lithium battery wake-up function. Rugged, efficient, and reliable.',
+    'weight' => 4.8,
+    'rating' => [
+        'stars' => 49,
+        'count' => 21
+    ],
+    'brandID' => 'FL-SCCM8048',
+    'keywords' => ['Felicity', 'MPPT', '80A', 'SCCM8048', 'Lithium'],
+    'pdf' => 'assets\shop assets\datasheets\felicityMPPTCController20-80A.pdf',
+  ],
+  [
+    'id' => 69,
+    'name' => 'felicity 100A MPPT Charge Controller',
+    'price' => 406000,
+    'image' => 'assets\shop assets\product images\felicityMPPTCController.jpg',
+    'category' => 'Solar Charge Controllers',
+    'description' => '100A MPPT solar charge controller supporting multiple battery voltages and lithium battery wake-up function. Built for large solar installations.',
+    'weight' => 5.5,
+    'rating' => [
+        'stars' => 47,
+        'count' => 18
+    ],
+    'brandID' => 'FL-MPPT100A',
+    'keywords' => ['MPPT', '100A', 'Felicity', 'Solar', 'Lithium Battery'],
+    'pdf' => 'assets\shop assets\datasheets\felicityMPPTCController20-80A.pdf',
+  ],
+  [
+    'id' => 70,
+    'name' => 'felicity 120A MPPT Charge Controller',
+    'price' => 454000,
+    'image' => 'assets\shop assets\product images\felicityMPPTCController.jpg',
+    'category' => 'Solar Charge Controllers',
+    'description' => '120A MPPT charge controller with 12V/24V/48V support, LCD display, smart protections, and lithium battery wake-up function for large off-grid systems.',
+    'weight' => 6.2,
+    'rating' => [
+        'stars' => 48,
+        'count' => 16
+    ],
+    'brandID' => 'FL-MPPT120A',
+    'keywords' => ['MPPT', '120A', 'Felicity', 'Charge Controller', 'Lithium'],
+    'pdf' => 'assets\shop assets\datasheets\felicityMPPTCController20-80A.pdf',
+  ],
 [
   'id' => 64,
   'name' => 'felicity 7kW AC Car Charger',
