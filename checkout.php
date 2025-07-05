@@ -274,8 +274,8 @@
         currency: "NGN",
         payment_options: "card,ussd,banktransfer",
         customer: {
-          email: "<?php echo isset($_SESSION['user_email']) ? $_SESSION['user_email'] : 'guest@example.com'; ?>",
-          phone_number: "<?php echo isset($_SESSION['user_phone']) ? $_SESSION['user_phone'] : '08000000000'; ?>",
+          email: "<?php echo isset($_SESSION['user_email']) ? $_SESSION['user_email'] : 'sales@aesolarltd.com'; ?>",
+          phone_number: "<?php echo isset($_SESSION['user_phone']) ? $_SESSION['user_phone'] : '+2349053083075'; ?>",
           name: "<?php echo isset($_SESSION['user_name']) ? $_SESSION['user_name'] : 'Guest User'; ?>"
         },
         callback: function (response) {
