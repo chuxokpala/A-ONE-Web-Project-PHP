@@ -511,7 +511,7 @@
 [
   'id' => 27,
   'name' => 'felicity IVPS 3.5KVA 24V Inverter',
-  'price' => 841,
+  'price' => 841000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPS 3.5KVA 48V Inverter is a high-efficiency pure sine wave inverter with a 120A MPPT charge controller, ideal for large off-grid solar systems, offering reliable power for commercial and industrial use.',
@@ -735,11 +735,11 @@
 [
   'id' => 41,
   'name' => 'felicity A3 30W All-In-One Lamp',
-  'price' => 0,
+  'price' => 258000,
   'image' => 'assets\shop assets\product images\A3-60W-P.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity A3 30W All-In-One Lamp is a solar-powered LED street light with an integrated panel, battery, and sensor, ideal for outdoor lighting.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 12, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 80
@@ -751,11 +751,11 @@
 [
   'id' => 42,
   'name' => 'felicity A3 40W All-In-One Lamp',
-  'price' => 0,
+  'price' => 273000,
   'image' => 'assets\shop assets\product images\A3-60W-P.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity A3 40W All-In-One Lamp is a solar-powered LED street light with an integrated panel, battery, and sensor, ideal for outdoor lighting.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 14, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 14
@@ -767,11 +767,11 @@
 [
   'id' => 43,
   'name' => 'felicity A3 60W All-In-One Lamp',
-  'price' => 0,
+  'price' => 405000,
   'image' => 'assets\shop assets\product images\A3-60W-P.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity A3 60W All-In-One Lamp is a solar-powered LED street light with an integrated panel, battery, and sensor, ideal for outdoor lighting.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 18, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 30
@@ -783,11 +783,11 @@
 [
   'id' => 44,
   'name' => 'felicity A3 100W All-In-One Lamp',
-  'price' => 0,
+  'price' => 565000,
   'image' => 'assets\shop assets\product images\A3-100W-S.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity A3 100W All-In-One Lamp is a solar-powered LED street light with an integrated panel, battery, and sensor, ideal for outdoor lighting.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 23, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 70
@@ -799,11 +799,11 @@
 [
   'id' => 45,
   'name' => 'felicity A3 150W All-In-One Lamp',
-  'price' => 0,
+  'price' => 865000,
   'image' => 'assets\shop assets\product images\A3-150W.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity A3 150W All-In-One Lamp is a solar-powered LED street light with an integrated panel, battery, and sensor, ideal for outdoor lighting.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 28, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 30
@@ -815,11 +815,11 @@
 [
   'id' => 46,
   'name' => 'felicity D2 30W-P All-In-One Lamp',
-  'price' => 0,
+  'price' => 300000,
   'image' => 'assets\shop assets\product images\D2-30W-P.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity D2 30W-P All-In-One Lamp is a compact solar-powered LED street light that integrates a 55W monocrystalline panel, 260Wh LiFePO₄ battery, and microwave sensor. It delivers 4,800 lumens and operates for over 12 hours daily, making it ideal for outdoor areas like parks and rural roads. Its IP65-rated design ensures durability in various weather conditions.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 7.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 30
@@ -831,11 +831,11 @@
 [
   'id' => 47,
   'name' => 'felicity D2 40W-P All-In-One Lamp',
-  'price' => 0,
+  'price' => 345000,
   'image' => 'assets\shop assets\product images\D2-40W-P.jpeg',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity D2 40W-P All-In-One Lamp is a compact solar-powered LED street light that integrates a 55W monocrystalline panel, 260Wh LiFePO₄ battery, and microwave sensor. It delivers 4,800 lumens and operates for over 12 hours daily, making it ideal for outdoor areas like parks and rural roads. Its IP65-rated design ensures durability in various weather conditions.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 9.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 20
@@ -847,11 +847,11 @@
 [
   'id' => 48,
   'name' => 'felicity D2 60W-P All-In-One Lamp',
-  'price' => 0,
+  'price' => 409500,
   'image' => 'assets\shop assets\product images\D2-60W-P.jpeg',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity D2 60W-P All-In-One Lamp is a compact solar-powered LED street light that integrates a 55W monocrystalline panel, 260Wh LiFePO₄ battery, and microwave sensor. It delivers 4,800 lumens and operates for over 12 hours daily, making it ideal for outdoor areas like parks and rural roads. Its IP65-rated design ensures durability in various weather conditions.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 11.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 17
@@ -863,11 +863,11 @@
 [
   'id' => 49,
   'name' => 'felicity D2 80W-P All-In-One Lamp',
-  'price' => 0,
+  'price' => 453000,
   'image' => 'assets\shop assets\product images\D2-30W-P.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity D2 80W-P All-In-One Lamp is a compact solar-powered LED street light that integrates a 55W monocrystalline panel, 260Wh LiFePO₄ battery, and microwave sensor. It delivers 4,800 lumens and operates for over 12 hours daily, making it ideal for outdoor areas like parks and rural roads. Its IP65-rated design ensures durability in various weather conditions.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 14.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 60
@@ -879,11 +879,11 @@
 [
   'id' => 50,
   'name' => 'felicity D2 100W-S All-In-One Lamp',
-  'price' => 0,
+  'price' => 609000,
   'image' => 'assets\shop assets\product images\D2-30W-P.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity D2 100W-S All-In-One Lamp is a powerful solar street light delivering 16,000 lumens, integrating a 100W monocrystalline panel, 888Wh LiFePO₄ battery, and motion sensor for efficient outdoor illumination. ',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 17.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 60
@@ -895,11 +895,11 @@
 [
   'id' => 51,
   'name' => 'felicity D2 120W-S All-In-One Lamp',
-  'price' => 0,
+  'price' => 670000,
   'image' => 'assets\shop assets\product images\D2-30W-P.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity D2 120W-S All-In-One Lamp is a powerful solar street light delivering 16,000 lumens, integrating a 100W monocrystalline panel, 888Wh LiFePO₄ battery, and motion sensor for efficient outdoor illumination. ',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 21, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 30
@@ -911,11 +911,11 @@
 [
   'id' => 52,
   'name' => 'felicity D2 150W-S All-In-One Lamp',
-  'price' => 0,
+  'price' => 783000,
   'image' => 'assets\shop assets\product images\D2-30W-P.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity D2 150W-S All-In-One Lamp is a powerful solar street light delivering 16,000 lumens, integrating a 100W monocrystalline panel, 888Wh LiFePO₄ battery, and motion sensor for efficient outdoor illumination. ',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 27, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 15
@@ -927,11 +927,11 @@
 [
   'id' => 53,
   'name' => 'felicity F1 60W All-In-One Lamp',
-  'price' => 0,
+  'price' => 589500,
   'image' => 'assets\shop assets\product images\F1-60W.png',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity F1 60W All-In-One Lamp is a solar-powered LED street light featuring an 85W monocrystalline panel, 532Wh LiFePO₄ battery, and motion sensor, delivering 9,600 lumens for over 12 hours of illumination daily. Its IP65-rated design ensures durability in various weather conditions. ',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 11, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 50
@@ -940,62 +940,62 @@
   'keywords' => ['Lamp', 'felicity', 'Products', 'A-ONE'],
   'pdf' => 'assets\shop assets\datasheets\F1-60W-120W.pdf',
 ],
-[
-  'id' => 54,
-  'name' => 'felicity F1 80W All-In-One Lamp',
-  'price' => 0,
-  'image' => 'assets\shop assets\product images\F1-60W.png',
-  'category' => 'Solar Lamps',
-  'description' => '​The Felicity F1 80W All-In-One Lamp is a solar-powered LED street light delivering 12,800 lumens, featuring a 95W monocrystalline panel, 650Wh LiFePO₄ battery, and motion sensor, suitable for outdoor lighting.',
-  'weight' => 3.5, // Weight in kilograms
-  'rating' => [
-      'stars' => 48,
-      'count' => 40
-  ],
-  'brandID' => 'FELF1-80W',
-  'keywords' => ['Lamp', 'felicity', 'Products', 'A-ONE'],
-  'pdf' => 'assets\shop assets\datasheets\F1-60W-120W.pdf',
-],
-[
-  'id' => 55,
-  'name' => 'felicity F1 100W All-In-One Lamp',
-  'price' => 0,
-  'image' => 'assets\shop assets\product images\F1-100W.jpeg',
-  'category' => 'Solar Lamps',
-  'description' => 'The Felicity F1 100W All-In-One Lamp is a solar LED street light with a 105W panel, 888Wh LiFePO₄ battery, and motion sensor, delivering 16,000 lumens with 3–5 days backup and IP65-rated weather protection.',
-  'weight' => 3.5, // Weight in kilograms
-  'rating' => [
-      'stars' => 48,
-      'count' => 60
-  ],
-  'brandID' => 'FELF1-100W',
-  'keywords' => ['Lamp', 'felicity', 'Products', 'A-ONE'],
-  'pdf' => 'assets\shop assets\datasheets\F1-60W-120W.pdf',
-],
-[
-  'id' => 56,
-  'name' => 'felicity F1 120W All-In-One Lamp',
-  'price' => 0,
-  'image' => 'assets\shop assets\product images\F1-120W.png',
-  'category' => 'Solar Lamps',
-  'description' => 'The Felicity F1 120W All-In-One Lamp is a solar-powered street light with a 110W panel, 999Wh LiFePO₄ battery, and 19,200 lumens output, providing reliable outdoor illumination with up to 3 days backup.',
-  'weight' => 3.5, // Weight in kilograms
-  'rating' => [
-      'stars' => 48,
-      'count' => 12
-  ],
-  'brandID' => 'FELF1-120W',
-  'keywords' => ['Lamp', 'felicity', 'Products', 'A-ONE'],
-  'pdf' => 'assets\shop assets\datasheets\F1-60W-120W.pdf',
-],
+// [
+//   'id' => 54,
+//   'name' => 'felicity F1 80W All-In-One Lamp',
+//   'price' => 0,
+//   'image' => 'assets\shop assets\product images\F1-60W.png',
+//   'category' => 'Solar Lamps',
+//   'description' => '​The Felicity F1 80W All-In-One Lamp is a solar-powered LED street light delivering 12,800 lumens, featuring a 95W monocrystalline panel, 650Wh LiFePO₄ battery, and motion sensor, suitable for outdoor lighting.',
+//   'weight' => 3.5, // Weight in kilograms
+//   'rating' => [
+//       'stars' => 48,
+//       'count' => 40
+//   ],
+//   'brandID' => 'FELF1-80W',
+//   'keywords' => ['Lamp', 'felicity', 'Products', 'A-ONE'],
+//   'pdf' => 'assets\shop assets\datasheets\F1-60W-120W.pdf',
+// ],
+// [
+//   'id' => 55,
+//   'name' => 'felicity F1 100W All-In-One Lamp',
+//   'price' => 0,
+//   'image' => 'assets\shop assets\product images\F1-100W.jpeg',
+//   'category' => 'Solar Lamps',
+//   'description' => 'The Felicity F1 100W All-In-One Lamp is a solar LED street light with a 105W panel, 888Wh LiFePO₄ battery, and motion sensor, delivering 16,000 lumens with 3–5 days backup and IP65-rated weather protection.',
+//   'weight' => 3.5, // Weight in kilograms
+//   'rating' => [
+//       'stars' => 48,
+//       'count' => 60
+//   ],
+//   'brandID' => 'FELF1-100W',
+//   'keywords' => ['Lamp', 'felicity', 'Products', 'A-ONE'],
+//   'pdf' => 'assets\shop assets\datasheets\F1-60W-120W.pdf',
+// ],
+// [
+//   'id' => 56,
+//   'name' => 'felicity F1 120W All-In-One Lamp',
+//   'price' => 0,
+//   'image' => 'assets\shop assets\product images\F1-120W.png',
+//   'category' => 'Solar Lamps',
+//   'description' => 'The Felicity F1 120W All-In-One Lamp is a solar-powered street light with a 110W panel, 999Wh LiFePO₄ battery, and 19,200 lumens output, providing reliable outdoor illumination with up to 3 days backup.',
+//   'weight' => 3.5, // Weight in kilograms
+//   'rating' => [
+//       'stars' => 48,
+//       'count' => 12
+//   ],
+//   'brandID' => 'FELF1-120W',
+//   'keywords' => ['Lamp', 'felicity', 'Products', 'A-ONE'],
+//   'pdf' => 'assets\shop assets\datasheets\F1-60W-120W.pdf',
+// ],
 [
   'id' => 57,
   'name' => 'felicity P2 40W All-In-One Lamp',
-  'price' => 0,
+  'price' => 253500,
   'image' => 'assets\shop assets\product images\P2-40W.jpeg',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity P2 40W All-In-One Lamp is a solar-powered street light with a 55W panel, 260Wh LiFePO₄ battery, and 4,800 lumens output, designed for efficient outdoor illumination with up to 3 days backup.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 7.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 16
@@ -1007,11 +1007,11 @@
 [
   'id' => 58,
   'name' => 'felicity P2 60W All-In-One Lamp',
-  'price' => 0,
+  'price' => 274500,
   'image' => 'assets\shop assets\product images\P2-60W.jpg',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity P2 60W All-In-One Lamp is a solar-powered street light with a 60W panel, LiFePO₄ battery, and 7,200 lumens output, designed for outdoor illumination with up to 5 days backup.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 9.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 14
@@ -1023,11 +1023,11 @@
 [
   'id' => 59,
   'name' => 'felicity P2 80W All-In-One Lamp',
-  'price' => 0,
+  'price' => 355500,
   'image' => 'assets\shop assets\product images\P2-80W.jpg',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity P2 80W All-In-One Lamp is a solar-powered street light with an 80W panel, 400Wh LiFePO₄ battery, and 9,600 lumens output, designed for efficient outdoor lighting with up to 3 days backup.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 12.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 40
@@ -1039,11 +1039,11 @@
 [
   'id' => 60,
   'name' => 'felicity P3 60W All-In-One Lamp',
-  'price' => 0,
+  'price' => 243000,
   'image' => 'assets\shop assets\product images\P3-60W.jpg',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity P3 60W All-In-One Lamp is a solar-powered street light with a 60W panel, 260Wh LiFePO₄ battery, and 7,200 lumens output, offering efficient outdoor lighting with up to 5 days backup.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 9.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 11
@@ -1055,11 +1055,11 @@
 [
   'id' => 61,
   'name' => 'felicity P3 80W All-In-One Lamp',
-  'price' => 0,
+  'price' => 289500,
   'image' => 'assets\shop assets\product images\P3-60W.jpg',
   'category' => 'Solar Lamps',
   'description' => 'The Felicity P3 80W All-In-One Lamp is a solar-powered street light with an 80W panel, 320Wh LiFePO₄ battery, and 9,600 lumens output, offering efficient lighting with up to 5 days backup.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 12.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 15
@@ -1071,11 +1071,11 @@
 [
   'id' => 62,
   'name' => 'felicity WiFi Module',
-  'price' => 0,
+  'price' => 104000,
   'image' => 'assets\shop assets\product images\Smart WiFi-S.jpeg',
   'category' => 'Accessories',
   'description' => 'Felicity WiFi Module enables remote monitoring of solar inverters via mobile app with easy plug-and-play setup.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 0.3, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 14
@@ -1087,11 +1087,11 @@
 [
   'id' => 63,
   'name' => 'felicity 11kW AC Car Charger',
-  'price' => 0,
+  'price' => 11000000,
   'image' => 'assets\shop assets\product images\EV Car Charger.jpeg',
   'category' => 'E-Mobility',
   'description' => 'Felicity 11kW AC Car Charger (A11-ST) is a wall-mounted, three-phase EV charger with IP65 protection, 16A output, and 3.5m cable. Ideal for home or commercial use, it includes eight safety features for reliable operation.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 9.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 15
@@ -1103,11 +1103,11 @@
 [
   'id' => 64,
   'name' => 'felicity 7kW AC Car Charger',
-  'price' => 0,
+  'price' => 9500000,
   'image' => 'assets\shop assets\product images\EV Car Charger.jpeg',
   'category' => 'E-Mobility',
   'description' => 'The Felicity 7kW AC Car Charger (Model: A7-ST) is a wall-mounted EV charger delivering 7kW at 32A, designed for residential use. It features IP65 waterproof protection, eight safety functions, and a 3.5m charging cable, ensuring efficient and safe charging for electric vehicles. ',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 6, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 15
