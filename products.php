@@ -2,6 +2,87 @@
     // Sample products array (replace with DB query later)
     $products = [
       [
+        'id' => 1.1,
+        'name' => 'Foresolar 200W Solar Panel',
+        'price' => 85000,
+        'image' => 'assets/shop assets/product images/MonoSolarPanel.jpg',
+        'category' => 'Solar Panels',
+        'description' => 'Foresolar 200W Monocrystalline Solar Panel delivers reliable performance for off-grid and small-scale energy systems.',
+        'weight' => 11.0,
+        'rating' => [
+          'stars' => 4.3,
+          'count' => 9
+        ],
+        'brandID' => 'FORESOLAR-200W',
+        'keywords' => ['Foresolar', '200W Panel', 'Monocrystalline', 'Solar'],
+        'pdf' => 'assets/shop assets/datasheets/foresolarMonoSolarPanel200-450W.pdf',
+      ],
+
+      [
+        'id' => 1.2,
+        'name' => 'Foresolar 250W Solar Panel',
+        'price' => 86000,
+        'image' => 'assets/shop assets/product images/MonoSolarPanel.jpg',
+        'category' => 'Solar Panels',
+        'description' => 'Foresolar 250W Monocrystalline Solar Panel offers enhanced efficiency for residential and commercial installations.',
+        'weight' => 13.5,
+        'rating' => [
+          'stars' => 4.5,
+          'count' => 11
+        ],
+        'brandID' => 'FORESOLAR-250W',
+        'keywords' => ['Foresolar', '250W Panel', 'Solar Energy', 'PV Module'],
+        'pdf' => 'assets/shop assets/datasheets/foresolarMonoSolarPanel200-450W.pdf',
+      ],
+
+      [
+        'id' => 1.3,
+        'name' => 'Foresolar 350W Solar Panel',
+        'price' => 105500,
+        'image' => 'assets/shop assets/product images/MonoSolarPanel.jpg',
+        'category' => 'Solar Panels',
+        'description' => 'Foresolar 350W Monocrystalline Panel is ideal for medium- to large-scale solar installations with high yield output.',
+        'weight' => 19.2,
+        'rating' => [
+          'stars' => 4.6,
+          'count' => 15
+        ],
+        'brandID' => 'FORESOLAR-350W',
+        'keywords' => ['Foresolar', '350W Panel', 'Solar Power', 'Monocrystalline'],
+        'pdf' => 'assets/shop assets/datasheets/foresolarMonoSolarPanel200-450W.pdf',
+      ],
+
+      [
+        'id' => 1.4,
+        'name' => 'Foresolar 450W Solar Panel',
+        'price' => 135000,
+        'image' => 'assets/shop assets/product images/MonoSolarPanel.jpg',
+        'category' => 'Solar Panels',
+        'description' => 'Foresolar 450W Monocrystalline Solar Panel is designed for high-capacity installations and delivers excellent energy conversion efficiency.',
+        'weight' => 23.0,
+        'rating' => [
+          'stars' => 4.8,
+          'count' => 19
+        ],
+        'brandID' => 'FORESOLAR-450W',
+        'keywords' => ['Foresolar', '450W Panel', 'High Wattage Solar', 'Energy Solutions'],
+        'pdf' => 'assets/shop assets/datasheets/foresolarMonoSolarPanel200-450W.pdf',
+      ],
+
+            [
+        'id' => 1,
+        'name' => 'JinKO 625W Solar Panel',
+        'price' => 293000.00,
+        'image' => 'assets/shop assets/product images/Products - HalfCut PV Panelx1.png',
+        'category' => 'Solar Panels',
+        'description' => 'Jinko 625W solar panel is a high-efficiency monocrystalline module using N-type TOPCon technology, delivering up to 22.4% efficiency and ideal for large-scale and commercial solar installations.',
+        'weight' => 29, // Weight in kilograms
+        'rating' => ['stars' => 47, 'count' => 18],
+        'brandID' => 'JKM625',
+        'keywords' => ['JinKO', 'Solar PV', 'A-ONE', 'Products'],
+        'pdf' => 'assets/shop assets/datasheets/JinKo Solar Panels Range Datasheet.pdf',
+      ],
+      [
         'id' => 1,
         'name' => 'JinKO 625W Solar Panel',
         'price' => 293000.00,
