@@ -367,11 +367,11 @@
 [
   'id' => 18,
   'name' => 'felicity IVPM 10KVA 48V Inverter',
-  'price' => 0,
+  'price' => 2136000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPM 10KVA 48V Inverter is a high-capacity hybrid inverter with a 120A MPPT charge controller, ideal for large residential or commercial systems, offering efficient solar energy conversion and battery management.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 28.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 50
@@ -383,11 +383,11 @@
 [
   'id' => 19,
   'name' => 'felicity IVPS 10KVA 48V Inverter',
-  'price' => 0,
+  'price' => 1785000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPS 10KVA 48V Inverter is a high-efficiency pure sine wave inverter with a 120A MPPT charge controller, ideal for large off-grid solar systems, offering reliable power for commercial and industrial use.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 28.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 18
@@ -399,11 +399,11 @@
 [
   'id' => 20,
   'name' => 'felicity IVPM 7.5KVA 48V Inverter',
-  'price' => 0,
+  'price' => 1585000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPM 7.5KVA 48V Inverter is a high-capacity hybrid inverter with a 120A MPPT charge controller, ideal for large residential or commercial systems, offering efficient solar energy conversion and battery management.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 24, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 36
@@ -415,11 +415,11 @@
 [
   'id' => 21,
   'name' => 'felicity IVPS 7.5KVA 48V Inverter',
-  'price' => 0,
+  'price' => 1228500,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPS 7.5KVA 48V Inverter is a high-efficiency pure sine wave inverter with a 120A MPPT charge controller, ideal for large off-grid solar systems, offering reliable power for commercial and industrial use.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 24, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 55
@@ -431,11 +431,11 @@
 [
   'id' => 22,
   'name' => 'felicity IVPM 5KVA 48V Inverter',
-  'price' => 0,
+  'price' => 1470000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPM 5KVA 48V Inverter is a high-capacity hybrid inverter with a 120A MPPT charge controller, ideal for large residential or commercial systems, offering efficient solar energy conversion and battery management.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 19.5, // Weight in kilograms
   'rating' => [
       'stars' => 45,
       'count' => 13
@@ -447,11 +447,11 @@
 [
   'id' => 23,
   'name' => 'felicity IVPS 5KVA 48V Inverter',
-  'price' => 0,
+  'price' => 1069000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPS 5KVA 48V Inverter is a high-efficiency pure sine wave inverter with a 120A MPPT charge controller, ideal for large off-grid solar systems, offering reliable power for commercial and industrial use.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 19.5, // Weight in kilograms
   'rating' => [
       'stars' => 43,
       'count' => 70
@@ -462,44 +462,44 @@
 ],
 [
   'id' => 24,
-  'name' => 'felicity IVPM 5KVA 24V Inverter',
-  'price' => 0,
+  'name' => 'felicity IVPS 5KVA 24V Inverter',
+  'price' => 1069000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
-  'description' => 'The Felicity IVPM 5KVA 24V Inverter is a high-capacity hybrid inverter with a 120A MPPT charge controller, ideal for large residential or commercial systems, offering efficient solar energy conversion and battery management.',
-  'weight' => 3.5, // Weight in kilograms
+  'description' => 'The Felicity IVPS 5KVA 24V Inverter is a high-capacity hybrid inverter with a 120A MPPT charge controller, ideal for large residential or commercial systems, offering efficient solar energy conversion and battery management.',
+  'weight' => 19.5, // Weight in kilograms
   'rating' => [
       'stars' => 49,
       'count' => 19
   ],
-  'brandID' => 'FELIVPM5KVA24V',
+  'brandID' => 'FELIVPS5KVA24V',
   'keywords' => ['Inverter', 'felicity', 'Products', 'A-ONE'],
   'pdf' => 'assets\shop assets\datasheets\Felicity IVPS-IVPMSeriesManual2024-11-14.pdf',
 ],
-[
-  'id' => 25,
-  'name' => 'felicity IVPM 3.5KVA 48V Inverter',
-  'price' => 0,
-  'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
-  'category' => 'Inverters',
-  'description' => 'The Felicity IVPM 3.5KVA 48V Inverter is a high-capacity hybrid inverter with a 120A MPPT charge controller, ideal for large residential or commercial systems, offering efficient solar energy conversion and battery management.',
-  'weight' => 3.5, // Weight in kilograms
-  'rating' => [
-      'stars' => 48,
-      'count' => 40
-  ],
-  'brandID' => 'FELIVPM3.5KVA48V',
-  'keywords' => ['Inverter', 'felicity', 'Products', 'A-ONE'],
-  'pdf' => 'assets\shop assets\datasheets\Felicity IVPS-IVPMSeriesManual2024-11-14.pdf',
-],
+// [
+//   'id' => 25,
+//   'name' => 'felicity IVPS 3.5KVA 24V Inverter',
+//   'price' => 841000,
+//   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
+//   'category' => 'Inverters',
+//   'description' => 'The Felicity IVPS 3.5KVA 24V Inverter is a high-capacity hybrid inverter with a 120A MPPT charge controller, ideal for large residential or commercial systems, offering efficient solar energy conversion and battery management.',
+//   'weight' => 16, // Weight in kilograms
+//   'rating' => [
+//       'stars' => 48,
+//       'count' => 40
+//   ],
+//   'brandID' => 'FELIVPM3.5KVA48V',
+//   'keywords' => ['Inverter', 'felicity', 'Products', 'A-ONE'],
+//   'pdf' => 'assets\shop assets\datasheets\Felicity IVPS-IVPMSeriesManual2024-11-14.pdf',
+// ],
 [
   'id' => 26,
-  'name' => 'felicity IVPM 3.5KVA 24V Inverter',
-  'price' => 0,
+  'name' => 'felicity IVOM 3.5KVA 24V Inverter',
+  'price' => 1395000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPM 3.5KVA 24V Inverter is a high-capacity hybrid inverter with a 120A MPPT charge controller, ideal for large residential or commercial systems, offering efficient solar energy conversion and battery management.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 15.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 60
@@ -510,12 +510,12 @@
 ],
 [
   'id' => 27,
-  'name' => 'felicity IVPS 3.5KVA 48V Inverter',
-  'price' => 0,
+  'name' => 'felicity IVPS 3.5KVA 24V Inverter',
+  'price' => 841,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPS 3.5KVA 48V Inverter is a high-efficiency pure sine wave inverter with a 120A MPPT charge controller, ideal for large off-grid solar systems, offering reliable power for commercial and industrial use.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 15.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 40
@@ -524,30 +524,30 @@
   'keywords' => ['Inverter', 'felicity', 'Products', 'A-ONE'],
   'pdf' => 'assets\shop assets\datasheets\Felicity IVPS-IVPMSeriesManual2024-11-14.pdf',
 ],
-[
-  'id' => 28,
-  'name' => 'felicity IVPS 3.5KVA 24V Inverter',
-  'price' => 0,
-  'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
-  'category' => 'Inverters',
-  'description' => 'The Felicity IVPS 3.5KVA 24V Inverter is a high-efficiency pure sine wave inverter with a 120A MPPT charge controller, ideal for large off-grid solar systems, offering reliable power for commercial and industrial use.',
-  'weight' => 3.5, // Weight in kilograms
-  'rating' => [
-      'stars' => 48,
-      'count' => 20
-  ],
-  'brandID' => 'FELIVPS3.5KVA24V',
-  'keywords' => ['Inverter', 'felicity', 'Products', 'A-ONE'],
-  'pdf' => 'assets\shop assets\datasheets\Felicity IVPS-IVPMSeriesManual2024-11-14.pdf',
-],
+// [
+//   'id' => 28,
+//   'name' => 'felicity IVPS 3.5KVA 24V Inverter',
+//   'price' => 0,
+//   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
+//   'category' => 'Inverters',
+//   'description' => 'The Felicity IVPS 3.5KVA 24V Inverter is a high-efficiency pure sine wave inverter with a 120A MPPT charge controller, ideal for large off-grid solar systems, offering reliable power for commercial and industrial use.',
+//   'weight' => 3.5, // Weight in kilograms
+//   'rating' => [
+//       'stars' => 48,
+//       'count' => 20
+//   ],
+//   'brandID' => 'FELIVPS3.5KVA24V',
+//   'keywords' => ['Inverter', 'felicity', 'Products', 'A-ONE'],
+//   'pdf' => 'assets\shop assets\datasheets\Felicity IVPS-IVPMSeriesManual2024-11-14.pdf',
+// ],
 [
   'id' => 29,
-  'name' => 'felicity IVPM 2.5KVA 24V Inverter',
-  'price' => 0,
+  'name' => 'felicity IVPS 2.5KVA 24V Inverter',
+  'price' => 597000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPM 2.5KVA 24V Inverter is a high-capacity hybrid inverter with a 120A MPPT charge controller, ideal for large residential or commercial systems, offering efficient solar energy conversion and battery management.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 13, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 19
@@ -559,11 +559,11 @@
 [
   'id' => 30,
   'name' => 'felicity IVPM 2.5KVA 12V Inverter',
-  'price' => 0,
+  'price' => 597000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Inverters',
   'description' => 'The Felicity IVPM 2.5KVA 12V Inverter is a high-capacity hybrid inverter with a 120A MPPT charge controller, ideal for large residential or commercial systems, offering efficient solar energy conversion and battery management.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 12, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 13
@@ -574,33 +574,33 @@
 ],
 [
   'id' => 31,
-  'name' => 'Inverlast 220Ah Tubular Battery',
-  'price' => 0,
+  'name' => 'Inverlast 230Ah Tubular Battery',
+  'price' => 507000,
   'image' => 'assets\shop assets\product images\Lumonous 220Ah Wet Cell Battery Inverlast.png',
   'category' => 'Batteries',
-  'description' => 'The Inverlast 220Ah Tubular Battery is a high-performance, deep-cycle battery with a tall tubular design, offering long-lasting power and durability for inverter and solar applications.',
-  'weight' => 3.5, // Weight in kilograms
+  'description' => 'The Inverlast 230Ah Tubular Battery is a high-performance, deep-cycle battery with a tall tubular design, offering long-lasting power and durability for inverter and solar applications.',
+  'weight' => 68, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 50
   ],
-  'brandID' => 'LUMI220AHBAT',
+  'brandID' => 'LUMI230AHBAT',
   'keywords' => ['Inverter', 'felicity', 'Products', 'A-ONE'],
   'pdf' => 'assets/shop assets/datasheets/Luminous solar panel, inverter,battery datasheet.pdf',
 ],
 [
   'id' => 32,
-  'name' => 'NRGT 220Ah Tubular Battery',
-  'price' => 0,
+  'name' => 'NRGT 250Ah Tubular Battery',
+  'price' => 682000,
   'image' => 'assets\shop assets\product images\Lumonous 220Ah Tubular Battery NRGT.png',
   'category' => 'Batteries',
-  'description' => 'The NRGT 220Ah Tubular Battery is a durable, deep-cycle battery with tall tubular plates, offering reliable power for inverter and solar systems with low maintenance and long cycle life.',
-  'weight' => 3.5, // Weight in kilograms
+  'description' => 'The NRGT 250Ah Tubular Battery is a durable, deep-cycle battery with tall tubular plates, offering reliable power for inverter and solar systems with low maintenance and long cycle life.',
+  'weight' => 75, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 40
   ],
-  'brandID' => 'LUMN220AHBAT',
+  'brandID' => 'LUMN250AHBAT',
   'keywords' => ['Inverter', 'felicity', 'Products', 'A-ONE'],
   'pdf' => 'assets/shop assets/datasheets/Luminous solar panel, inverter,battery datasheet.pdf',
 ],
