@@ -607,11 +607,11 @@
 [
   'id' => 33,
   'name' => 'felicity 48V 200Ah 10kWh LiFePO₄ Battery',
-  'price' => 0,
+  'price' => 3492000,
   'image' => 'assets\shop assets\product images\LPBA 48V 200Ah 10kWh Grade A Lithium Phosphate Solar Battery Pack with BMS by Felicity Solar.jpeg',
   'category' => 'Batteries',
   'description' => 'The Felicity 48V 200Ah 10kWh LiFePO₄ Battery is a high-capacity, long-life lithium battery ideal for solar energy storage in residential and commercial systems.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 92.5, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 20
@@ -620,46 +620,46 @@
   'keywords' => ['Battery', 'felicity', 'Products', 'A-ONE'],
   'pdf' => 'assets\shop assets\datasheets\LPBA48200-IIManual2025-1-17.pdf',
 ],
-[
-  'id' => 34,
-  'name' => 'felicity 24V 100Ah 10kWh LiFePO₄ Battery',
-  'price' => 0,
-  'image' => 'assets\shop assets\product images\LPBF 24V 100ah M 2.5KWH Home Use Energy Storage Lithium Battery.jpeg',
-  'category' => 'Batteries',
-  'description' => 'The Felicity 24V 100Ah 10kWh LiFePO₄ Battery is a high-capacity, long-life lithium battery ideal for solar energy storage in residential and commercial systems.',
-  'weight' => 3.5, // Weight in kilograms
-  'rating' => [
-      'stars' => 48,
-      'count' => 50
-  ],
-  'brandID' => 'FEL24V100AH10KWHBATT',
-  'keywords' => ['Battery', 'felicity', 'Products', 'A-ONE'],
-  'pdf' => 'assets\shop assets\datasheets\LPBF24100-MManual2024-9-24.pdf',
-],
-[
-  'id' => 35,
-  'name' => 'felicity 48V 100Ah 10kWh LiFePO₄ Battery',
-  'price' => 0,
-  'image' => 'assets\shop assets\product images\LPBF 100Ah 48V 5KWH LiFePO4 Power Wall Mounted Lithium Battery For Solar System.jpeg',
-  'category' => 'Batteries',
-  'description' => 'The Felicity 48V 100Ah 10kWh LiFePO₄ Battery is a high-capacity, long-life lithium battery ideal for solar energy storage in residential and commercial systems.',
-  'weight' => 3.5, // Weight in kilograms
-  'rating' => [
-      'stars' => 48,
-      'count' => 15
-  ],
-  'brandID' => 'FEL48V100AH10KWHBATT',
-  'keywords' => ['Battery', 'felicity', 'Products', 'A-ONE'],
-  'pdf' => 'assets\shop assets\datasheets\LPBF48100-H-LPBF48200-HManual2024-12-27.pdf',
-],
+// [
+//   'id' => 34,
+//   'name' => 'felicity 24V 100Ah 10kWh LiFePO₄ Battery',
+//   'price' => 0,
+//   'image' => 'assets\shop assets\product images\LPBF 24V 100ah M 2.5KWH Home Use Energy Storage Lithium Battery.jpeg',
+//   'category' => 'Batteries',
+//   'description' => 'The Felicity 24V 100Ah 10kWh LiFePO₄ Battery is a high-capacity, long-life lithium battery ideal for solar energy storage in residential and commercial systems.',
+//   'weight' => 3.5, // Weight in kilograms
+//   'rating' => [
+//       'stars' => 48,
+//       'count' => 50
+//   ],
+//   'brandID' => 'FEL24V100AH10KWHBATT',
+//   'keywords' => ['Battery', 'felicity', 'Products', 'A-ONE'],
+//   'pdf' => 'assets\shop assets\datasheets\LPBF24100-MManual2024-9-24.pdf',
+// ],
+// [
+//   'id' => 35,
+//   'name' => 'felicity 48V 100Ah 10kWh LiFePO₄ Battery',
+//   'price' => 0,
+//   'image' => 'assets\shop assets\product images\LPBF 100Ah 48V 5KWH LiFePO4 Power Wall Mounted Lithium Battery For Solar System.jpeg',
+//   'category' => 'Batteries',
+//   'description' => 'The Felicity 48V 100Ah 10kWh LiFePO₄ Battery is a high-capacity, long-life lithium battery ideal for solar energy storage in residential and commercial systems.',
+//   'weight' => 3.5, // Weight in kilograms
+//   'rating' => [
+//       'stars' => 48,
+//       'count' => 15
+//   ],
+//   'brandID' => 'FEL48V100AH10KWHBATT',
+//   'keywords' => ['Battery', 'felicity', 'Products', 'A-ONE'],
+//   'pdf' => 'assets\shop assets\datasheets\LPBF48100-H-LPBF48200-HManual2024-12-27.pdf',
+// ],
 [
   'id' => 36,
   'name' => 'felicity 48V 350Ah 17.5kWh LiFePO₄ Battery',
-  'price' => 0,
+  'price' => 5376000,
   'image' => 'assets\shop assets\product images\LPBF 17.5kWh 48V 350Ah Rechargeable LiFePO4 Battery Solar Pack with BMS by Felicity Solar.jpeg',
   'category' => 'Batteries',
   'description' => 'The Felicity 48V 350Ah 17.5kWh LiFePO₄ Battery is a long-life, high-capacity lithium battery with BMS, ideal for scalable solar energy storage.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 230, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 60
@@ -670,12 +670,12 @@
 ],
 [
   'id' => 37,
-  'name' => 'felicity 48V 150Ah 7.5kWh LiFePO₄ Battery',
-  'price' => 0,
+  'name' => 'felicity 48V 150Ah 7.2kWh LiFePO₄ Battery',
+  'price' => 2760000,
   'image' => 'assets\shop assets\product images\LPBF48150-P.jpeg',
   'category' => 'Batteries',
   'description' => 'The Felicity 48V 150Ah 7.5kWh LiFePO₄ Battery is a long-life, high-capacity lithium battery with BMS, ideal for scalable solar energy storage.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 56, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 70
@@ -684,30 +684,30 @@
   'keywords' => ['Battery', 'felicity', 'Products', 'A-ONE'],
   'pdf' => 'assets\shop assets\datasheets\LPBF48150-P.pdf',
 ],
-[
-  'id' => 38,
-  'name' => 'felicity 24V 200Ah 4.8kWh LiFePO₄ Battery',
-  'price' => 0,
-  'image' => 'assets\shop assets\product images\LPBF24200-M.jpeg',
-  'category' => 'Batteries',
-  'description' => 'The Felicity 24V 200Ah 4.8kWh LiFePO₄ Battery is a long-life, high-capacity lithium battery with BMS, ideal for scalable solar energy storage.',
-  'weight' => 3.5, // Weight in kilograms
-  'rating' => [
-      'stars' => 48,
-      'count' => 40
-  ],
-  'brandID' => 'FEL24V200AH4.8KWHBATT',
-  'keywords' => ['Battery', 'felicity', 'Products', 'A-ONE'],
-  'pdf' => 'assets\shop assets\datasheets\LPBF24200-M.pdf',
-],
+// [
+//   'id' => 38,
+//   'name' => 'felicity 24V 200Ah 4.8kWh LiFePO₄ Battery',
+//   'price' => 0,
+//   'image' => 'assets\shop assets\product images\LPBF24200-M.jpeg',
+//   'category' => 'Batteries',
+//   'description' => 'The Felicity 24V 200Ah 4.8kWh LiFePO₄ Battery is a long-life, high-capacity lithium battery with BMS, ideal for scalable solar energy storage.',
+//   'weight' => 3.5, // Weight in kilograms
+//   'rating' => [
+//       'stars' => 48,
+//       'count' => 40
+//   ],
+//   'brandID' => 'FEL24V200AH4.8KWHBATT',
+//   'keywords' => ['Battery', 'felicity', 'Products', 'A-ONE'],
+//   'pdf' => 'assets\shop assets\datasheets\LPBF24200-M.pdf',
+// ],
 [
   'id' => 39,
   'name' => 'felicity 48V 300Ah 15kWh LiFePO₄ Battery',
-  'price' => 0,
+  'price' => 5472000,
   'image' => 'assets\shop assets\product images\FLA48300.jpeg',
   'category' => 'Batteries',
   'description' => 'The Felicity 48V 300Ah 15kWh LiFePO₄ Battery is a long-life, high-capacity lithium battery with BMS, ideal for scalable solar energy storage.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 135, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 30
@@ -719,11 +719,11 @@
 [
   'id' => 40,
   'name' => 'felicity 48V 500Ah 25kWh LiFePO₄ Battery',
-  'price' => 0,
+  'price' => 8959500,
   'image' => 'assets\shop assets\product images\FLA48500.jpeg',
   'category' => 'Batteries',
   'description' => 'The Felicity 48V 500Ah 25kWh LiFePO₄ Battery is a long-life, high-capacity lithium battery with BMS, ideal for scalable solar energy storage.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 240, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 60
