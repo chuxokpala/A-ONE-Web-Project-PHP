@@ -1232,11 +1232,11 @@
 [
   'id' => 65,
   'name' => 'Lorentz PS2-1800-HR-07 Helical Rotor Solar Submersible Pump',
-  'price' => 0,
+  'price' => 12800000,
   'image' => 'assets\shop assets\product images\PS2-1800-HR-04H-600x600-1.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-1800-HR-07 is a solar-powered helical rotor submersible pump delivering up to 1.3 m³/h at 120m head, ideal for deep wells, livestock watering, and remote water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 32, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 13
@@ -1248,11 +1248,11 @@
 [
   'id' => 66,
   'name' => 'Lorentz PS2-1800-HR-05HL Helical Rotor Solar Submersible Pump',
-  'price' => 0,
+  'price' => 12400000,
   'image' => 'assets\shop assets\product images\PS2-1800-HR-04H-600x600-1.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-1800-HR-05HL is a solar-powered helical rotor submersible pump with up to 0.97 m³/h flow and 250m head, ideal for deep wells and remote water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 30, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 60
@@ -1264,11 +1264,11 @@
 [
   'id' => 67,
   'name' => 'Lorentz PS2-1800-HR-04H Helical Rotor Solar Submersible Pump',
-  'price' => 0,
+  'price' => 11700000,
   'image' => 'assets\shop assets\product images\PS2-1800-HR-04H-600x600-1.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-1800-HR-04H is a solar submersible helical rotor pump delivering up to 0.72 m³/h at 140 m head, ideal for deep wells and remote water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 28, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 30
@@ -1280,11 +1280,11 @@
 [
   'id' => 68,
   'name' => 'Lorentz PS2-1800-HR-04 Helical Rotor Solar Submersible Pump',
-  'price' => 0,
+  'price' => 11600000,
   'image' => 'assets\shop assets\product images\PS2-1800-HR-04H-600x600-1.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-1800-HR-04 is a solar submersible pump delivering up to 0.71 m³/h at 70 m head, ideal for deep wells and remote use.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 26, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 15
@@ -1296,11 +1296,11 @@
 [
   'id' => 69,
   'name' => 'Lorentz PS2-1800-HR-03H Helical Rotor Solar Submersible Pump',
-  'price' => 0,
+  'price' => 11300000,
   'image' => 'assets\shop assets\product images\PS2-1800-HR-04H-600x600-1.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-1800-HR-03H is a solar submersible pump delivering up to 0.43 m³/h at 240 m head, ideal for deep wells and remote supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 26, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 17
@@ -1312,11 +1312,11 @@
 [
   'id' => 70,
   'name' => 'Lorentz PS2-1800-HR-03 Helical Rotor Solar Submersible Pump',
-  'price' => 0,
+  'price' => 11200000,
   'image' => 'assets\shop assets\product images\PS2-1800-HR-04H-600x600-1.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-1800-HR-03 is a solar submersible pump delivering up to 0.43 m³/h at 120 m head, ideal for deep wells and remote use.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 24, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 13
@@ -1328,11 +1328,11 @@
 [
   'id' => 71,
   'name' => 'Lorentz PS2-1800-CS-F12-2 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 11200000,
   'image' => 'assets\shop assets\product images\PS2-1800-CS-F12-2.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-1800-CS-F12-2 is a solar-powered centrifugal pump delivering up to 19 m³/h at 22 meters head, ideal for irrigation and remote water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 26, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 15
@@ -1344,11 +1344,11 @@
 [
   'id' => 72,
   'name' => 'Lorentz PS2-1800-CS-F4-6 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 10700000,
   'image' => 'assets\shop assets\product images\PS2-1800-CS-F12-2.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-1800-CS-F4-6 is a solar-powered centrifugal pump delivering up to 8.5 m³/h at 50 meters head, ideal for irrigation and remote water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 24, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 40
@@ -1360,11 +1360,11 @@
 [
   'id' => 73,
   'name' => 'Lorentz PS2-1800-C-SJ1-25 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 11600000,
   'image' => 'assets\shop assets\product images\PS2-1800-C-SJ1-25.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-1800-C-SJ1-25 is a solar-powered centrifugal submersible pump delivering up to 3.0 m³/h at 140 meters head, ideal for irrigation and remote water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 30, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 60
@@ -1376,11 +1376,11 @@
 [
   'id' => 74,
   'name' => 'Lorentz PS2-600-SJ8-5 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 6600000,
   'image' => 'assets\shop assets\product images\PS2-1800-C-SJ1-25.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-600-SJ8-5 is a solar-powered centrifugal submersible pump delivering up to 12 m³/h at 15 meters head, ideal for irrigation and water supply in remote locations.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 20, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 18
@@ -1392,11 +1392,11 @@
 [
   'id' => 75,
   'name' => 'Lorentz PS2-600 HR-14 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 7700000,
   'image' => 'assets\shop assets\product images\PS2-600.png',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-600 HR-14 is a solar-powered submersible pump delivering up to 2.6 m³/h at 50 meters head, ideal for irrigation and remote water supply. It features a brushless motor, MPPT controller, and stainless-steel components for durability.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 24, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 10
@@ -1408,11 +1408,11 @@
 [
   'id' => 76,
   'name' => 'Lorentz PS2-600 HR-10 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 7400000,
   'image' => 'assets\shop assets\product images\PS2-600.png',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-600 HR-10 is a solar-powered submersible pump delivering up to 2.0 m³/h at 80 meters head. It features a brushless DC motor, MPPT controller, and stainless-steel components, ideal for irrigation and remote water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 22, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 13
@@ -1424,11 +1424,11 @@
 [
   'id' => 77,
   'name' => 'Lorentz PS2-600 HR-4H Solar Submersible Pump',
-  'price' => 0,
+  'price' => 6900000,
   'image' => 'assets\shop assets\product images\PS2-1800-HR-04H-600x600-1.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-600 HR-4H is a solar-powered submersible pump delivering up to 0.8 m³/h at 80–140 meters head. It features a brushless DC motor, MPPT controller, and stainless-steel components, designed for medium-depth applications.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 20, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 10
@@ -1440,11 +1440,11 @@
 [
   'id' => 78,
   'name' => 'Lorentz PS2-600 HR-4 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 6800000,
   'image' => 'assets\shop assets\product images\PS2-1800-HR-04H-600x600-1.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-600 HR-4 is a solar-powered submersible pump delivering up to 1.3 m³/h at 40 meters head. It features a brushless DC motor, MPPT controller, and stainless-steel components, ideal for moderate depth pumping needs.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 19, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 19
@@ -1456,11 +1456,11 @@
 [
   'id' => 79,
   'name' => 'Lorentz PS2-600 HR-3H Solar Submersible Pump',
-  'price' => 0,
+  'price' => 6600000,
   'image' => 'assets\shop assets\product images\PS2-1800-HR-04H-600x600-1.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-600 HR-3H is a solar-powered submersible pump delivering up to 0.45 m³/h at 180 meters head. It features a brushless DC motor, MPPT controller, and stainless-steel components, perfect for deep well applications.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 18, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 17
@@ -1472,11 +1472,11 @@
 [
   'id' => 80,
   'name' => 'Lorentz PS2-600 HR-3 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 6500000,
   'image' => 'assets\shop assets\product images\PS2-1800-HR-04H-600x600-1.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-600 HR-3 is a solar-powered submersible pump delivering up to 1.3 m³/h at 40 meters head. It features a brushless DC motor, MPPT controller, and stainless-steel components, ideal for irrigation and remote water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 17, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 17
@@ -1488,11 +1488,11 @@
 [
   'id' => 81,
   'name' => 'Lorentz PS2-600-C-SJ5-8 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 7200000,
   'image' => 'assets\shop assets\product images\PS2-600-C-SJ5-8.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-600-C-SJ5-8 is a solar-powered submersible pump delivering up to 6.5 m³/h at 30 meters head. It features a 0.70 kW brushless DC motor, MPPT controller, and is ideal for irrigation and remote water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 22, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 14
@@ -1504,11 +1504,11 @@
 [
   'id' => 82,
   'name' => 'Lorentz PS2-200 HR-14 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 7700000,
   'image' => 'assets\shop assets\product images\PS2-600.png',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-200 HR-14 is a solar-powered submersible pump delivering up to 2.6 m³/h at 20m head. It features a brushless DC motor, MPPT controller, and stainless-steel parts—ideal for irrigation, livestock watering, and off-grid water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 24, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 13
@@ -1520,11 +1520,11 @@
 [
   'id' => 83,
   'name' => 'Lorentz PS2-200 HR-7 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 5400000,
   'image' => 'assets\shop assets\product images\PS2-600.png',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-200 HR-07 is a solar-powered submersible pump delivering up to 1.3 m³/h at 40 meters head. It features a 0.3 kW brushless DC motor, integrated MPPT controller, and stainless-steel components, ideal for irrigation, livestock watering, and remote water supply. ',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 14, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 80
@@ -1536,11 +1536,11 @@
 [
   'id' => 84,
   'name' => 'Lorentz PS2-150-C-SJ5-08 Solar Submersible Pump',
-  'price' => 0,
+  'price' => 5120000,
   'image' => 'assets\shop assets\product images\PS2-150-C-SJ5-8.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-150 C-SJ5-8 is a solar-powered submersible pump delivering up to 4.6 m³/h at 20 meters head. It features a 0.30 kW brushless DC motor, MPPT controller, and stainless-steel components—ideal for irrigation, livestock watering, and remote water supply.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 16, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 14
@@ -1552,11 +1552,11 @@
 [
   'id' => 85,
   'name' => 'Lorentz PS2-150-BOOST-240 Surface Pump',
-  'price' => 0,
+  'price' => 4600000,
   'image' => 'assets\shop assets\product images\PS2-150-BOOST-240.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-150 BOOST-240 is a solar-powered surface pump delivering up to 0.98 m³/h at 50m head. It features a 300W brushless DC motor and MPPT controller, ideal for off-grid water supply and irrigation.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 17, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 18
@@ -1568,11 +1568,11 @@
 [
   'id' => 86,
   'name' => 'Lorentz PS2-150-BOOST-125 Surface Pump',
-  'price' => 0,
+  'price' => 4320000,
   'image' => 'assets\shop assets\product images\PS2-150-BOOST-240.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-150 BOOST-125 is a solar-powered surface pump delivering up to 0.5 m³/h at 110 meters head. It uses a 0.3 kW brushless DC motor, MPPT controller, and is ideal for off-grid applications like irrigation, household use, and livestock watering.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 16, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 20
@@ -1584,11 +1584,11 @@
 [
   'id' => 87,
   'name' => 'Lorentz PS2-150-BOOST-60 Surface Pump',
-  'price' => 0,
+  'price' => 4160000,
   'image' => 'assets\shop assets\product images\PS2-150-BOOST-240.jpg',
   'category' => 'Solar Pumps',
   'description' => 'The Lorentz PS2-150 BOOST-60 is a solar-powered surface pump delivering up to 0.26 m³/h at 150 meters head. It features a 0.3 kW brushless DC motor, MPPT controller, and is ideal for off-grid water supply, irrigation, and livestock watering.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 15, // Weight in kilograms
   'rating' => [
       'stars' => 48,
       'count' => 13
@@ -1600,11 +1600,11 @@
 [
   'id' => 88,
   'name' => 'Lorentz PS2-150 Controller',
-  'price' => 0,
+  'price' => 1600000,
   'image' => 'assets\shop assets\product images\PS2150.png',
   'category' => 'Accessories',
   'description' => 'The Lorentz PS2-150 Controller is a solar-powered pump controller designed for small to medium-sized water pumping applications. It efficiently manages brushless DC motors up to 0.3 kW, making it ideal for off-grid water supply, irrigation, and livestock watering.',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 6, // Weight in kilograms
   'rating' => [
       'stars' => 44,
       'count' => 12
@@ -1616,11 +1616,11 @@
 [
   'id' => 89,
   'name' => 'Lorentz PS1800-Pool-CS-37-1 Controller',
-  'price' => 0,
+  'price' => 6000000,
   'image' => 'assets\shop assets\product images\PS1800-Pool-CS-37-1.png',
   'category' => 'Accessories',
   'description' => 'The Lorentz PS-1800 Pool CS-37-1 is a solar-powered surface pump system designed for high-volume water circulation in swimming pools and similar applications. It delivers up to 36 m³/h at a maximum head of 14 meters, making it ideal for large-scale water movement needs.​',
-  'weight' => 3.5, // Weight in kilograms
+  'weight' => 25, // Weight in kilograms
   'rating' => [
       'stars' => 42,
       'count' => 13
