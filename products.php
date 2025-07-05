@@ -1100,7 +1100,22 @@
   'keywords' => ['EV Charger', 'felicity', 'Products', 'A-ONE'],
   'pdf' => 'assets\shop assets\datasheets\AtlasAVHomeChargerQuickstartGuide.pdf',
 ],
-
+[
+  'id' => 64,
+  'name' => 'felicity 7kW AC Car Charger',
+  'price' => 9500000,
+  'image' => 'assets\shop assets\product images\EV Car Charger.jpeg',
+  'category' => 'E-Mobility',
+  'description' => 'The Felicity 7kW AC Car Charger (Model: A7-ST) is a wall-mounted EV charger delivering 7kW at 32A, designed for residential use. It features IP65 waterproof protection, eight safety functions, and a 3.5m charging cable, ensuring efficient and safe charging for electric vehicles. ',
+  'weight' => 6, // Weight in kilograms
+  'rating' => [
+      'stars' => 48,
+      'count' => 15
+  ],
+  'brandID' => 'A7-ST',
+  'keywords' => ['EV Charger', 'felicity', 'Products', 'A-ONE'],
+  'pdf' => 'assets\shop assets\datasheets\AtlasAVHomeChargerQuickstartGuide.pdf',
+],
 [
     'id' => 64,
     'name' => 'felicity 30A MPPT Charge Controller',
@@ -1213,22 +1228,7 @@
     'keywords' => ['MPPT', '120A', 'Felicity', 'Charge Controller', 'Lithium'],
     'pdf' => 'assets\shop assets\datasheets\felicityMPPTCController20-80A.pdf',
   ],
-[
-  'id' => 64,
-  'name' => 'felicity 7kW AC Car Charger',
-  'price' => 9500000,
-  'image' => 'assets\shop assets\product images\EV Car Charger.jpeg',
-  'category' => 'E-Mobility',
-  'description' => 'The Felicity 7kW AC Car Charger (Model: A7-ST) is a wall-mounted EV charger delivering 7kW at 32A, designed for residential use. It features IP65 waterproof protection, eight safety functions, and a 3.5m charging cable, ensuring efficient and safe charging for electric vehicles. ',
-  'weight' => 6, // Weight in kilograms
-  'rating' => [
-      'stars' => 48,
-      'count' => 15
-  ],
-  'brandID' => 'A7-ST',
-  'keywords' => ['EV Charger', 'felicity', 'Products', 'A-ONE'],
-  'pdf' => 'assets\shop assets\datasheets\AtlasAVHomeChargerQuickstartGuide.pdf',
-],
+
 [
   'id' => 65,
   'name' => 'Lorentz PS2-1800-HR-07 Helical Rotor Solar Submersible Pump',
