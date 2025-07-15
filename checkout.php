@@ -309,7 +309,7 @@
           }
         },
         customizations: {
-          title: "A-ONE E&S Ltd",
+          title: "A-ONE Electric & Solar",
           description: "Payment for items and delivery",
           logo: "./assets/web images/AESL Logo_PNG x1.png"
         }
