@@ -1,9 +1,11 @@
 <!-- Footer Section -->
 <section class="footer bg-black text-white py-5">
     <div class="container">
-        <div class="row gy-4 text-center text-md-start">
+        <div class="row gy-4 text-center text-md-start justify-content-center">
+
+        <!-- <div class="row gy-4 text-center text-md-start"> -->
             <!-- Column 1: Logo & Social Media -->
-                <div class="col-md-3 d-flex flex-column align-items-center align-items-md-start">
+                <div class="col-md-2 d-flex flex-column align-items-center align-items-md-start">
 
                 <div class="mb-3">
                     <img src="./assets/web images/AESL Logo_PNG x1.png" alt="AESL Logo" style="max-width: 150px;">
@@ -31,7 +33,7 @@
             </div>
 
             <!-- Column 2: Our Approach to Work -->
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <h5 class="mb-3">Our Approach to Work</h5>
                 <p class="small text-white-50">
                     At AESL, we combine innovation with expertise to deliver sustainable energy solutions. By working with our clients, we ensure each project is executed to the highest standards, offering lasting value while promoting environmental stewardship.
@@ -39,7 +41,7 @@
             </div>
 
             <!-- Column 3: Quick Links -->
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <h5 class="mb-3">Quick Links</h5>
                 <ul class="list-unstyled">
                     <li><a href="index.php" class="text-white-50 text-decoration-none">Home</a></li>
@@ -51,7 +53,7 @@
             </div>
 
             <!-- Column 4: Contact -->
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <h5 class="mb-3">Contact Us</h5>
                 <p class="small mb-1 text-white-50">info@aesolarltd.com</p>
                 <p class="small mb-1 text-white-50">(+234) 905 308 3075</p>
