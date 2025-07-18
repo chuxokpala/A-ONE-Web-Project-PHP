@@ -45,13 +45,7 @@
         <h2>8. Policy Updates</h2>
         <p>AESL reserves the right to modify this Refund Policy at any time without prior notice. Updates will be posted on this page with a revised effective date.</p>
 
-        <h2>9. Contact Information</h2>
-        <ul style="margin-left: 1.5rem;">
-            <li><strong>Email:</strong> sales@aesolarltd.com</li>
-            <li><strong>Phone:</strong> +234 [Insert Support Number]</li>
-            <li><strong>Office Address:</strong> [Insert Office Address]</li>
-        </ul>
-    </div>
+     </div>
 </section>
 
 <?php include('includes/footer.php'); ?>
