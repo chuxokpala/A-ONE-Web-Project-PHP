@@ -1,11 +1,9 @@
 <!-- Footer Section -->
 <section class="footer bg-black text-white py-5">
     <div class="container">
-        <!-- <div class="row gy-4 text-center text-md-start justify-content-center"> -->
-
         <div class="row gy-4 text-center text-md-start">
             <!-- Column 1: Logo & Social Media -->
-                <div class="col-md-2 d-flex flex-column align-items-center align-items-md-start">
+                <div class="col-md-3 d-flex flex-column align-items-center align-items-md-start">
 
                 <div class="mb-3">
                     <img src="./assets/web images/AESL Logo_PNG x1.png" alt="AESL Logo" style="max-width: 150px;">
