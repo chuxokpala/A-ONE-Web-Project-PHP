@@ -1,7 +1,7 @@
 <!-- Footer Section -->
 <section class="footer bg-black text-white py-5">
     <div class="container">
-        <div class="row gy-1 text-center text-md-start">
+        <div class="row gy-4 text-center text-md-start">
             <!-- Column 1: Logo & Social Media -->
                 <div class="col-md-1 d-flex flex-column align-items-center align-items-md-start">
 
