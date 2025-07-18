@@ -1,12 +1,11 @@
 <!-- Footer Section -->
 <section class="footer bg-black text-white py-5">
     <div class="container">
-        <div class="row gy-4 text-center text-md-start">
+        <div class="row gy-4 gx-2 justify-content-center text-center text-md-start">
             <!-- Column 1: Logo & Social Media -->
-                <div class="col-md-3 d-flex flex-column align-items-center align-items-md-start">
-
+            <div class="col-md-2 d-flex flex-column align-items-center align-items-md-start">
                 <div class="mb-3">
-                    <img src="./assets/web images/AESL Logo_PNG x1.png" alt="AESL Logo" style="max-width: 150px;">
+                    <img src="./assets/web images/AESL Logo_PNG x1.png" alt="AESL Logo" style="max-width: 130px;">
                 </div>
                 <div class="footer-socials d-flex flex-wrap">
                     <a href="https://twitter.com/aesolarltd" target="_blank" rel="noopener noreferrer" class="me-2">
@@ -31,15 +30,15 @@
             </div>
 
             <!-- Column 2: Our Approach to Work -->
-            <div class="col-md-3">
-                <h5 class="mb-3">Our Approach to Work</h5>
+            <div class="col-md-2">
+                <h5 class="mb-3">Our Approach</h5>
                 <p class="small text-white-50">
-                    At AESL, we combine innovation with expertise to deliver sustainable energy solutions. By working with our clients, we ensure each project is executed to the highest standards, offering lasting value while promoting environmental stewardship.
+                    At AESL, we combine innovation and expertise to deliver sustainable energy solutions executed to the highest standards.
                 </p>
             </div>
 
             <!-- Column 3: Quick Links -->
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <h5 class="mb-3">Quick Links</h5>
                 <ul class="list-unstyled">
                     <li><a href="index.php" class="text-white-50 text-decoration-none">Home</a></li>
@@ -51,19 +50,19 @@
             </div>
 
             <!-- Column 4: Contact -->
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <h5 class="mb-3">Contact Us</h5>
                 <p class="small mb-1 text-white-50">info@aesolarltd.com</p>
                 <p class="small mb-1 text-white-50">(+234) 905 308 3075</p>
                 <p class="small mb-1 text-white-50">(+234) 909 533 7297</p>
-                <p class="small text-white-50">4 Agudama Avenue, D-Line, Port Harcourt, RI, Nigeria.</p>
+                <p class="small text-white-50">4 Agudama Avenue, D-Line, Port Harcourt, Nigeria.</p>
             </div>
         </div>
 
         <!-- Footer Bottom -->
         <div class="border-top border-secondary mt-4 pt-3 text-center">
             <p class="mb-2 small text-white-50">
-                Copyright &copy;2025 A-ONE Electric & Solar Ltd. All Rights Reserved.
+                &copy;2025 A-ONE Electric & Solar Ltd. All Rights Reserved.
             </p>
             <ul class="list-inline mb-0">
                 <li class="list-inline-item">
@@ -89,5 +88,11 @@
 
     .footer-socials img:hover {
         transform: scale(1.1);
+    }
+
+    @media (max-width: 768px) {
+        .footer .col-md-2 {
+            text-align: center;
+        }
     }
 </style>
