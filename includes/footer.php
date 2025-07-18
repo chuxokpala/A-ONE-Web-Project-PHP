@@ -72,6 +72,9 @@
                 <li class="list-inline-item">
                     <a href="privacy.php" class="text-white-50 text-decoration-none">Privacy Policy</a>
                 </li>
+                <li class="list-inline-item">
+                    <a href="refund.php" class="text-white-50 text-decoration-none">Refund Policy</a>
+                </li>
             </ul>
         </div>
     </div>
