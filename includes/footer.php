@@ -33,7 +33,7 @@
             <div class="col-md-2">
                 <h5 class="mb-3">Our Approach</h5>
                 <p class="small text-white-50">
-                    At AESL, we combine innovation and expertise to deliver sustainable energy solutions executed to the highest standards.
+                    At AESL, we combine innovation and expertise to deliver sustainable energy solutions executed to the highest standards using IEEE 1547™.
                 </p>
             </div>
 
